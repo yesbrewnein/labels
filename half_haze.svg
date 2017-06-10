@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="half_haze.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7061">
+      <rect
+         y="-100.59479"
+         x="3235.0432"
+         height="800.19971"
+         width="500.19971"
+         id="rect7063"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.10028458;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7065">
+      <rect
+         y="-100.59479"
+         x="3235.0432"
+         height="800.19971"
+         width="500.19971"
+         id="rect7067"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.10028458;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7072">
+      <rect
+         y="-100.49491"
+         x="2445.1431"
+         height="800"
+         width="600"
+         id="rect7074"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         clip-path="none" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7076">
+      <rect
+         y="-100.49491"
+         x="2445.1431"
+         height="800"
+         width="600"
+         id="rect7078"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         clip-path="none" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5550">
+      <rect
+         clip-path="none"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.654634;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect5552"
+         width="799.64539"
+         height="799.64539"
+         x="5300.1772"
+         y="426.82523" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5554">
+      <rect
+         clip-path="none"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.654634;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect5556"
+         width="799.64539"
+         height="799.64539"
+         x="5300.1772"
+         y="426.82523" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="3059.8774"
+     inkscape:cy="601.62424"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4191">
+      <text
+         sodipodi:linespacing="85.000008%"
+         id="text4136"
+         y="498.67554"
+         x="141.60466"
+         style="font-style:normal;font-weight:normal;font-size:111.78626251px;line-height:85.00000834%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:85.00000834%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold'"
+           id="tspan4140"
+           y="498.67554"
+           x="141.60466"
+           sodipodi:role="line">HAZE</tspan></text>
+      <text
+         sodipodi:linespacing="85.000008%"
+         id="text4136-6"
+         y="406.67554"
+         x="141.60466"
+         style="font-style:normal;font-weight:normal;font-size:111.78626251px;line-height:85.00000834%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:85.00000834%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold'"
+           id="tspan4140-6"
+           y="406.67554"
+           x="141.60466"
+           sodipodi:role="line">HALF</tspan></text>
+    </g>
+    <g
+       id="g4226"
+       transform="translate(-1048.5714,94.285714)">
+      <text
+         transform="scale(1,-1)"
+         sodipodi:linespacing="85.000008%"
+         id="text4136-3"
+         y="-304.01245"
+         x="605.82898"
+         style="font-style:normal;font-weight:normal;font-size:111.78626251px;line-height:85.00000834%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:85.00000834%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold'"
+           id="tspan4140-0"
+           y="-304.01245"
+           x="605.82898"
+           sodipodi:role="line">HAZE</tspan></text>
+      <text
+         sodipodi:linespacing="85.000008%"
+         id="text4136-6-2"
+         y="292.1405"
+         x="605.82898"
+         style="font-style:normal;font-weight:normal;font-size:111.78626251px;line-height:85.00000834%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:85.00000834%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold'"
+           id="tspan4140-6-2"
+           y="292.1405"
+           x="605.82898"
+           sodipodi:role="line">HALF</tspan></text>
+    </g>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e385ce;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 1124.5317,37.760148 1328.6612,368.39418 894.7041,636.31428 690.57453,305.6802 Z"
+       id="rect4197"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(-445.77567,-284.53502)"
+       id="g4191-6">
+      <text
+         sodipodi:linespacing="85.000008%"
+         id="text4136-5"
+         y="498.67554"
+         x="141.60466"
+         style="font-style:normal;font-weight:normal;font-size:111.78626251px;line-height:85.00000834%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:85.00000834%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold'"
+           id="tspan4140-9"
+           y="498.67554"
+           x="141.60466"
+           sodipodi:role="line">HAZE</tspan></text>
+      <text
+         sodipodi:linespacing="85.000008%"
+         id="text4136-6-6"
+         y="406.67554"
+         x="141.60466"
+         style="font-style:normal;font-weight:normal;font-size:111.78626251px;line-height:85.00000834%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:85.00000834%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold'"
+           id="tspan4140-6-0"
+           y="406.67554"
+           x="141.60466"
+           sodipodi:role="line">HALF</tspan></text>
+    </g>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff69de;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4197-9"
+       width="388.57141"
+       height="510"
+       x="488.46445"
+       y="-346.11563"
+       transform="matrix(0.46117381,0.88730982,-0.88730982,0.46117381,0,0)" />
+    <g
+       id="text4136-0"
+       style="font-style:normal;font-weight:normal;font-size:111.78626251px;line-height:85.00000834%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(632.3555,-249.50768)" />
+    <g
+       id="text4136-6-68"
+       style="font-style:normal;font-weight:normal;font-size:111.78626251px;line-height:85.00000834%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(632.3555,-249.50768)">
+      <path
+         id="path4456"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:85.00000834%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold'"
+         d="m 403.33079,406.67554 -21.23284,0 0,-79.80055 47.15983,0 0,17.30286 -25.92699,0 0,15.22869 23.90741,0 0,17.30286 -23.90741,0 0,29.96614 z m -86.29593,0 0,-79.80055 21.56034,0 0,62.38853 30.7303,0 0,17.41202 -52.29064,0 z m -32.25863,0 -3.92999,-14.95578 -25.92699,0 -4.03915,14.95578 -23.68908,0 26.03615,-80.12805 28.76532,0 26.36365,80.12805 -23.57991,0 z m -8.40581,-32.64072 -3.43873,-13.09995 q -1.20083,-4.36665 -2.94749,-11.29871 -1.69208,-6.93206 -2.23791,-9.93413 -0.49125,2.78374 -1.965,9.16997 -1.41916,6.38622 -6.38622,25.16282 l 16.97535,0 z m -57.74896,32.64072 -21.6695,0 0,-32.53155 -25.05366,0 0,32.53155 -21.6695,0 0,-79.80055 21.6695,0 0,29.58406 25.05366,0 0,-29.58406 21.6695,0 0,79.80055 z m 214.12965,92 -47.37816,0 0,-79.80055 47.37816,0 0,17.30286 -25.81783,0 0,12.55412 23.90742,0 0,17.30285 -23.90742,0 0,15.06495 25.81783,0 0,17.57577 z m -58.84063,0 -62.17019,0 0,-13.31829 34.55113,-49.07024 -33.73238,0 0,-17.41202 60.47811,0 0,13.2637 -34.55112,49.12483 35.42445,0 0,17.41202 z m -89.13425,0 -3.92999,-14.95578 -25.92699,0 -4.03915,14.95578 -23.68908,0 26.03615,-80.12805 28.76532,0 26.36365,80.12805 -23.57991,0 z m -8.40581,-32.64072 -3.43873,-13.09995 q -1.20083,-4.36665 -2.94749,-11.29871 -1.69208,-6.93206 -2.23791,-9.93413 -0.49125,2.78374 -1.965,9.16997 -1.41916,6.38622 -6.38622,25.16282 l 16.97535,0 z m -57.74896,32.64072 -21.6695,0 0,-32.53155 -25.05366,0 0,32.53155 -21.6695,0 0,-79.80055 21.6695,0 0,29.58406 25.05366,0 0,-29.58406 21.6695,0 0,79.80055 z" />
+    </g>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 1589.8647,-844.43695 166.0308,351.31393 -461.0994,217.9156 -166.0309,-351.31399 z"
+       id="rect4197-6-5-8"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:111.78626251px;line-height:85.00000834%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1364.2917"
+       y="-387.89233"
+       id="text4136-6-67-64"
+       sodipodi:linespacing="85.000008%"><tspan
+         sodipodi:role="line"
+         x="1364.2917"
+         y="-387.89233"
+         id="tspan4140-6-5-7"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:85.00000834%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold'">HALF</tspan><tspan
+         sodipodi:role="line"
+         x="1364.2917"
+         y="-292.87399"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:85.00000834%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold'"
+         id="tspan5460-3">HAZE</tspan><tspan
+         id="tspan5453-6"
+         sodipodi:role="line"
+         x="1364.2917"
+         y="-197.8557"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:85.00000834%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold'" /></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff69de;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 1755.8647,-492.94202 1921.8955,-141.6281 1460.7961,76.287516 1294.7652,-275.02648 Z"
+       id="rect4197-6-8"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:111.78626251px;line-height:85.00000834%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1364.2917"
+       y="-387.89236"
+       id="text4136-6-67-6-1"
+       sodipodi:linespacing="85.000008%"><tspan
+         sodipodi:role="line"
+         x="1364.2917"
+         y="-387.89236"
+         id="tspan4140-6-5-2-5"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:85.00000834%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold'">HALF</tspan><tspan
+         sodipodi:role="line"
+         x="1364.2917"
+         y="-292.87402"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:85.00000834%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold'"
+         id="tspan5460-5-5">HAZE</tspan><tspan
+         id="tspan5453-2-9"
+         sodipodi:role="line"
+         x="1364.2917"
+         y="-197.85573"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:85.00000834%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold'" /></text>
+    <g
+       id="g5894">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4197-6-5-8-2"
+         d="m 878.71731,-840.39633 166.03079,351.31392 -461.09939,217.9156 -166.0309,-351.31399 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4197-6-8-4"
+         d="M 1044.7173,-488.90141 1210.7481,-137.58749 749.64871,80.328127 583.61781,-270.98587 Z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff69de;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff69de;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 756.82115,-474.43108 -26.03711,80.12696 23.68945,0 4.03906,-14.95508 25.92774,0 3.92969,14.95508 23.58007,0 -26.36328,-80.12696 -28.76562,0 z m -102.99805,0.32618 0,79.80078 21.66797,0 0,-32.53125 25.05469,0 0,32.53125 21.66992,0 0,-79.80078 -21.66992,0 0,29.58398 -25.05469,0 0,-29.58398 -21.66797,0 z m 166.80469,0 0,76.73437 30.35351,-14.3457 -8.79296,0 0,-62.38867 -21.56055,0 z m 65.06445,0 0,45.98437 28.46289,-13.45117 -7.23047,0 0,-15.23047 25.92579,0 0,-17.30273 -47.15821,0 z m -114.35156,12.82812 c 0.36389,2.00138 1.10828,5.31222 2.23633,9.93359 1.16444,4.62138 2.14671,8.38773 2.94726,11.29883 l 3.43946,13.09961 -16.97461,0 c 3.31137,-12.51773 5.43865,-20.90462 6.38476,-25.16211 0.9825,-4.25748 1.6393,-7.31409 1.9668,-9.16992 z m -14.51953,81.86328 -4.6836,14.41016 30.49414,-14.41016 -25.81054,0 z m -102.99805,0.32813 0,60.54687 21.66797,-10.24023 0,-3.03907 6.42969,0 40.29492,-19.04296 0,-28.22461 -21.66992,0 0,29.58398 -25.05469,0 0,-29.58398 -21.66797,0 z"
+       id="rect4197-6-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 942.50865,-425.5717 -28.81641,13.61914 0,33.64844 21.23242,0 0,-29.96485 23.90625,0 0,-17.30273 -16.32226,0 z m -63.17383,29.85547 -30.70703,14.51172 0,2.90039 52.29101,0 0,-17.41211 -21.58398,0 z m -68.34961,32.30273 -30.91016,14.60742 -21.29101,65.52148 23.68945,0 4.03906,-14.95702 25.92774,0 3.92969,14.95702 23.58007,0 -26.36328,-80.1289 -2.60156,0 z m 33.16797,0.32813 0,17.41211 33.73242,0 -34.55273,49.07031 0,13.31835 62.17187,0 0,-17.4121 -35.42578,0 34.55078,-49.125 0,-13.26367 -60.47656,0 z m 72.8125,0 0,79.80077 47.37891,0 0,-17.57616 -25.81836,0 0,-15.06446 23.9082,0 0,-17.30273 -23.9082,0 0,-12.55469 25.81836,0 0,-17.30273 -47.37891,0 z m -117.625,12.82617 c 0.36389,2.00138 1.10828,5.31222 2.23633,9.93359 1.16444,4.62137 2.14671,8.38773 2.94726,11.29883 l 3.43946,13.10156 -16.97461,0 c 3.31137,-12.51773 5.43865,-20.90658 6.38476,-25.16406 0.9825,-4.25748 1.6393,-7.3141 1.9668,-9.16992 z m -49.125,15.56445 -39.94141,18.87695 18.27149,0 0,32.5332 21.66992,0 0,-51.41015 z m -46.72461,22.08203 -21.66797,10.24024 0,19.08788 21.66797,0 0,-29.32812 z"
+       id="rect4197-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00da00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 2853.2638,-628.34066 3160.6104,21.991448 2307.0499,425.38425 1999.703,-224.94797 Z"
+       id="rect4197-6-5-8-2-1"
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath7076)"
+       inkscape:export-filename="C:\Users\Max\Pictures\half_haze_front_back.png"
+       inkscape:export-xdpi="126.1935"
+       inkscape:export-ydpi="126.1935"
+       transform="matrix(1,0,0,1.0008937,0,0.08980778)" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#9869ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 3160.5534,22.326497 3467.9002,672.6586 2614.3395,1076.0514 2306.9926,425.71921 Z"
+       id="rect4197-6-8-4-0"
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath7072)"
+       inkscape:export-filename="C:\Users\Max\Pictures\half_haze_front_back.png"
+       inkscape:export-xdpi="126.1935"
+       inkscape:export-ydpi="126.1935"
+       transform="matrix(1,0,0,1.0008937,0,-0.62511625)" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#9869ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 2700.7016,82.8165 -38.5712,118.69951 35.0933,0 5.9835,-22.15435 38.4091,0 5.8214,22.15435 34.9314,0 -39.0544,-118.69951 -42.6131,0 z m -152.5807,0.4832 0,118.21631 32.0988,0 0,-48.19156 37.1159,0 0,48.19156 32.1016,0 0,-118.21631 -32.1016,0 0,43.8255 -37.1159,0 0,-43.8255 -32.0988,0 z m 247.1033,0 0,113.67375 44.9655,-21.25162 -13.0258,0 0,-92.42213 -31.9397,0 z m 96.3861,0 0,68.12092 42.1647,-19.92647 -10.7112,0 0,-22.56231 38.4063,0 0,-25.63214 -69.8598,0 z m -169.3997,19.00349 c 0.5391,2.96483 1.6419,7.86948 3.313,14.71554 1.725,6.84608 3.1801,12.42553 4.366,16.73801 l 5.0952,19.40567 -25.146,0 c 4.9053,-18.54368 8.0567,-30.96795 9.4582,-37.27497 1.4555,-6.307 2.4285,-10.83504 2.9136,-13.58425 z m -21.509,121.27168 -6.9383,21.34711 45.1738,-21.34711 -38.2355,0 z m -152.5807,0.48609 0,89.6937 32.0988,-15.1698 0,-4.50206 9.5249,0 59.6926,-28.21011 0,-41.81173 -32.1016,0 0,43.82549 -37.1159,0 0,-43.82549 -32.0988,0 z"
+       id="rect4197-6-5-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Max\Pictures\half_haze_front_back.png"
+       inkscape:export-xdpi="126.1935"
+       inkscape:export-ydpi="126.1935" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00da00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 2916.2987,135.93594 -42.6884,20.1753 0,49.84656 31.4535,0 0,-44.38972 35.4146,0 0,-25.63214 -24.1797,0 z m -93.5852,44.22768 -45.4893,21.49756 0,4.29662 77.4635,0 0,-25.79418 -31.9742,0 z m -101.2526,47.85303 -45.7902,21.63933 -31.5403,97.06306 35.0933,0 5.9835,-22.15723 38.4091,0 5.8214,22.15723 34.9314,0 -39.0544,-118.70239 -3.8538,0 z m 49.1347,0.48609 0,25.79418 49.9709,0 -51.1861,72.69241 0,19.72971 92.101,0 0,-25.79416 -52.4795,0 51.1833,-72.77343 0,-19.64871 -89.5896,0 z m 107.8639,0 0,118.2163 70.1868,0 0,-26.0372 -38.2471,0 0,-22.31639 35.4174,0 0,-25.63214 -35.4174,0 0,-18.59843 38.2471,0 0,-25.63214 -70.1868,0 z m -174.2489,19.0006 c 0.5391,2.96483 1.6419,7.86949 3.313,14.71555 1.725,6.84607 3.1801,12.42552 4.366,16.73801 l 5.0952,19.40855 -25.146,0 c 4.9053,-18.54367 8.0567,-30.97085 9.4582,-37.27785 1.4555,-6.30701 2.4285,-10.83506 2.9136,-13.58426 z m -72.7734,23.05707 -59.1689,27.96418 27.0673,0 0,48.19445 32.1016,0 0,-76.15863 z m -69.2175,32.71216 -32.0988,15.16982 0,28.27665 32.0988,0 0,-43.44647 z"
+       id="rect4197-6-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Max\Pictures\half_haze_front_back.png"
+       inkscape:export-xdpi="126.1935"
+       inkscape:export-ydpi="126.1935" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path3398-6-6-2-9-7-3-0-7-0-7-7-0-6"
+       cx="2745.1431"
+       cy="527.71442"
+       r="81.753143"
+       inkscape:export-filename="C:\Users\Max\Pictures\half_haze_front_back.png"
+       inkscape:export-xdpi="126.1935"
+       inkscape:export-ydpi="126.1935" />
+    <path
+       style="fill:#9869ff;fill-opacity:1;stroke:none;stroke-width:1.70000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2742.5937,456.19005 0,2.24451 0.3879,0.20318 0.083,2.80797 c 0.2855,0.70302 0.739,1.14958 1.3207,1.58871 l 0,0.41569 -4.2303,5.13561 0.018,1.5979 c -0.8605,0.34392 -1.552,0.87419 -1.7549,1.41326 l 0,7.28772 c 0.209,0.73056 0.6252,1.37691 1.4039,1.79191 0.5923,2.22614 1.7273,3.59185 4.0641,3.65775 2.3369,0.0659 3.8861,-1.54041 4.1657,-3.45451 1.239,-0.70288 1.263,-1.19158 1.393,-1.84736 l 0,-7.08454 c -0.2739,-1.08902 -0.8049,-1.27975 -1.4576,-1.64412 l 0,-0.47109 c 0.7758,-0.73546 1.3326,-0.44473 1.9306,0.24017 l 0,10.51836 c 0,0 -3.8711,4.82268 -5.7546,7.12371 l -0.083,3.76858 -4.0089,0 -0.2207,0.38084 0.5256,1.79907 c -0.7492,0.2174 -1.3452,0.88275 -1.3487,1.15455 -0.01,0.31607 -0.02,1.71782 0.019,1.99515 0.039,0.27726 0.2344,0.82376 0.8405,1.23774 l 0,1.08065 c -0.6379,0.41311 -0.6674,0.66315 -0.7481,0.92369 l 0.028,1.72725 0.2309,0.60039 c -1.0781,5.4113 -3.5271,8.79733 -9.4675,10.35435 -5.9406,1.55696 -11.5481,8.35366 -12.3311,12.19242 -0.7828,3.83881 0.3283,60.92949 0.3973,63.16984 0.069,2.24028 3.5988,9.04553 12.2293,10.36352 8.383,1.28025 14.5018,1.17089 14.8526,1.16385 0.011,-1.9e-4 0.1294,0 0.1294,0 0.3508,0.008 6.4696,0.1164 14.8526,-1.16385 8.6305,-1.31799 12.1604,-8.12324 12.2293,-10.36352 0.069,-2.24035 1.1801,-59.33103 0.3972,-63.16984 -0.7828,-3.83876 -6.3997,-10.63546 -12.3401,-12.19242 -5.9406,-1.55702 -8.3895,-4.94305 -9.4678,-10.35435 l 0.2311,-0.60039 0.028,-1.72725 c -0.081,-0.26054 -0.1009,-0.51058 -0.7389,-0.92369 l -0.01,-1.08065 c 0.6061,-0.41398 0.8104,-0.96048 0.8497,-1.23774 0.039,-0.27733 0.022,-1.67908 0.018,-1.99515 -0.01,-0.25438 -0.5206,-0.85351 -1.2008,-1.10839 l 0.4841,-1.8175 -0.2624,-0.39933 -3.8517,-0.0277 0.018,-2.84489 5.6714,-7.47248 -0.01,-11.29647 c -0.1985,-0.51944 -0.9842,-2.18382 -3.0588,-2.30997 -2.0749,-0.12614 -2.7971,1.23039 -2.9544,1.46018 l 0,1.27466 c -0.771,0.21205 -1.5715,0.68741 -1.8196,1.55173 l -0.028,7.30628 c 0.2757,1.11606 0.8333,1.26812 1.3115,1.66261 -0.4571,1.17347 -0.8075,1.33075 -1.5609,1.38546 -0.7534,0.0547 -1.4828,-0.52592 -1.6165,-1.55173 1.1219,-0.56146 1.2386,-0.93494 1.4502,-1.49634 l 0.028,-7.41715 c -0.2497,-0.56183 -0.5813,-1.04008 -1.4779,-1.40395 l 0,-0.84055 4.3967,-5.59739 0,-0.79438 c 0.7366,-0.32412 1.1668,-0.90557 1.3856,-1.47791 l 0,-2.63245 0.4525,-0.39713 0,-2.32764 c -2.3908,-0.51806 -3.5779,-0.66377 -6.0224,-0.0553 z"
+       id="path2998-82-9-8-1-5-7-1-7-6-61-6-4-5-63-6-62-3-6-6-22-8-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccscccccccccccccccccccsccsccsccscccccccccccccczcccccscccccccccccc"
+       inkscape:export-xdpi="126.1935"
+       inkscape:export-ydpi="126.1935"
+       inkscape:export-filename="C:\Users\Max\Pictures\half_haze_front_back.png" />
+    <g
+       id="g6519-3-5-6-8-8"
+       transform="matrix(0.62887038,0,0,0.62887038,1990.4601,1215.2477)"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="C:\Users\Max\Pictures\half_haze_front_back.png"
+       inkscape:export-xdpi="126.1935"
+       inkscape:export-ydpi="126.1935">
+      <text
+         inkscape:export-ydpi="346.14999"
+         inkscape:export-xdpi="346.14999"
+         inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
+         sodipodi:linespacing="125%"
+         id="text3336-9-9-1-2-9-5-7-6-2-6-1-5-4"
+         y="-1076.7251"
+         x="1161.3663"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.25216293px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+           y="-1076.7251"
+           x="1161.3663"
+           id="tspan3338-1-1-6-7-6-6-9-1-0-9-0-0-7"
+           sodipodi:role="line">YES</tspan></text>
+      <text
+         inkscape:export-ydpi="346.14999"
+         inkscape:export-xdpi="346.14999"
+         inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
+         sodipodi:linespacing="125%"
+         id="text3336-3-2-3-3-2-8-0-2-2-6-3-6-9-2"
+         y="-1052.8525"
+         x="1158.8492"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+           y="-1052.8525"
+           x="1158.8492"
+           id="tspan3338-6-7-4-9-2-57-9-3-9-1-7-1-6-4"
+           sodipodi:role="line">BREW</tspan></text>
+      <text
+         inkscape:export-ydpi="346.14999"
+         inkscape:export-xdpi="346.14999"
+         inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
+         sodipodi:linespacing="125%"
+         id="text3336-7-0-5-3-1-5-6-92-3-5-4-5-3-0"
+         y="-1028.592"
+         x="1158.8492"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+           y="-1028.592"
+           x="1158.8492"
+           id="tspan3338-5-9-8-3-0-9-2-2-1-5-5-9-8-6"
+           sodipodi:role="line">NEIN</tspan></text>
+    </g>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#9869ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 3585.2638,-628.3407 3892.6104,21.991413 3039.0499,425.38421 2731.703,-224.94801 Z"
+       id="rect4197-6-5-8-2-1-4"
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath7065)"
+       transform="translate(-180,0)"
+       inkscape:export-filename="C:\Users\Max\Pictures\half_haze_front_back.png"
+       inkscape:export-xdpi="126.1935"
+       inkscape:export-ydpi="126.1935" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00da00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 3892.5534,22.326462 4199.9002,672.65856 3346.3395,1076.0514 3038.9926,425.71917 Z"
+       id="rect4197-6-8-4-0-3"
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath7061)"
+       transform="translate(-180,0)"
+       inkscape:export-filename="C:\Users\Max\Pictures\half_haze_front_back.png"
+       inkscape:export-xdpi="126.1935"
+       inkscape:export-ydpi="126.1935" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.99520302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3147.4826,164.79049 c 313.5316,0 314.2441,0 314.2441,0"
+       id="path5581-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Max\Pictures\the_juicy_void_front_back.png"
+       inkscape:export-xdpi="252.36584"
+       inkscape:export-ydpi="252.36584" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.99520302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3148.238,444.11848 c 313.5316,0 314.2441,0 314.2441,0"
+       id="path5581-6-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Max\Pictures\the_juicy_void_front_back.png"
+       inkscape:export-xdpi="252.36584"
+       inkscape:export-ydpi="252.36584" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:61.81764221px;line-height:114.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold';text-align:center;letter-spacing:1.54544115px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3302.3521"
+       y="250.52495"
+       id="text5613-73"
+       sodipodi:linespacing="115%"
+       inkscape:export-filename="C:\Users\Max\Pictures\the_juicy_void_front_back.png"
+       inkscape:export-xdpi="252.36584"
+       inkscape:export-ydpi="252.36584"><tspan
+         sodipodi:role="line"
+         x="3302.3521"
+         y="250.52495"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.33809662px;line-height:114.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="tspan8042">HAZY</tspan><tspan
+         id="tspan8093"
+         sodipodi:role="line"
+         x="3302.3521"
+         y="327.96375"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.33809662px;line-height:114.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1">SESSION</tspan><tspan
+         sodipodi:role="line"
+         x="3302.3521"
+         y="405.40256"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.33809662px;line-height:114.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="tspan8040">PALE ALE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35.66314316px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0.89157856px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3148.2383"
+       y="519.91156"
+       id="text5613-7-2-4"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="C:\Users\Max\Pictures\the_juicy_void_front_back.png"
+       inkscape:export-xdpi="252.36584"
+       inkscape:export-ydpi="252.36584"><tspan
+         sodipodi:role="line"
+         x="3148.2383"
+         y="519.91156"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20.06052017px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         id="tspan5866">INGREDIENTS: WATER, FLAKED</tspan><tspan
+         sodipodi:role="line"
+         x="3148.2383"
+         y="539.97211"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20.06052017px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         id="tspan5919">OATS, WHEAT MALT, BARLEY</tspan><tspan
+         id="tspan5273"
+         sodipodi:role="line"
+         x="3148.2383"
+         y="560.03259"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20.06052017px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1">MALT: MARIS OTTER, GOLDEN</tspan><tspan
+         sodipodi:role="line"
+         x="3148.2383"
+         y="580.09314"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20.06052017px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         id="tspan8034">PROMISE, CARAHELL, MUNICH</tspan><tspan
+         sodipodi:role="line"
+         x="3148.2383"
+         y="600.15363"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20.06052017px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         id="tspan5692-0">HOPS: HALLERTAU BLANC</tspan><tspan
+         sodipodi:role="line"
+         x="3148.2383"
+         y="620.21417"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20.06052017px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         id="tspan5700-3">YEAST: MJ M36</tspan><tspan
+         sodipodi:role="line"
+         x="3148.2383"
+         y="640.27466"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20.06052017px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         id="tspan5301">BOTTLED: 12-APR-2018</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.46681213px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:1.03667033px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3306.0491"
+       y="678.24188"
+       id="text5613-2-61"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="C:\Users\Max\Pictures\the_juicy_void_front_back.png"
+       inkscape:export-xdpi="252.36584"
+       inkscape:export-ydpi="252.36584"><tspan
+         sodipodi:role="line"
+         x="3306.5674"
+         y="678.24188"
+         id="tspan5621-3-06"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.32508087px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1">YESBREWNEIN.GITHUB.IO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.9550972px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:1.12387753px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3305.8665"
+       y="482.38919"
+       id="text5613-2-6-3"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="C:\Users\Max\Pictures\the_juicy_void_front_back.png"
+       inkscape:export-xdpi="252.36584"
+       inkscape:export-ydpi="252.36584"><tspan
+         sodipodi:role="line"
+         x="3306.4285"
+         y="482.38919"
+         id="tspan5621-3-0-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.28724289px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1"
+         dy="0 0 0 0 0 0 0 -1.956943 1.956943">35 IBU | ALC. 2.5% VOL.</tspan></text>
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path3398-6-6-2-9-7-3-0-7-0"
+       cx="3305.0867"
+       cy="29.992443"
+       r="109.73599"
+       inkscape:export-filename="C:\Users\Max\Pictures\the_juicy_void_front_back.png"
+       inkscape:export-xdpi="252.36584"
+       inkscape:export-ydpi="252.36584" />
+    <path
+       style="fill:#9869ff;fill-opacity:1;stroke:none;stroke-width:1.70000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3301.6643,-66.013245 0,3.01276 0.5208,0.27274 0.1117,3.76892 c 0.3833,0.94373 0.992,1.54309 1.7727,2.13268 l 0,0.55785 -5.6781,6.89343 0.024,2.14484 c -1.155,0.46169 -2.0832,1.17336 -2.3557,1.89702 l 0,9.78228 c 0.2807,0.98065 0.8394,1.84816 1.8844,2.4052 0.7951,2.98802 2.3187,4.82121 5.4553,4.9098 3.1367,0.0878 5.2161,-2.06763 5.5916,-4.63705 1.663,-0.94332 1.6951,-1.59934 1.8699,-2.47962 l 0,-9.50954 c -0.3677,-1.46169 -1.0804,-1.71767 -1.9565,-2.20687 l 0,-0.63228 c 1.0411,-0.98723 1.7887,-0.59697 2.5914,0.32242 l 0,14.11862 c 0,0 -5.1963,6.47343 -7.7245,9.56201 l -0.1117,5.05841 -5.3809,0 -0.2962,0.51138 0.7055,2.41479 c -1.0056,0.2919 -1.8057,1.18495 -1.8103,1.54967 0,0.42438 -0.028,2.30586 0.026,2.67816 0.052,0.37211 0.3144,1.10575 1.128,1.6614101 l 0,1.45051 c -0.8563,0.5544701 -0.8958,0.8900601 -1.0041,1.2398001 l 0.038,2.31843 0.3098,0.80586 c -1.4469,7.26354 -4.7342,11.80859 -12.708,13.89856 -7.9741,2.0899798 -15.5008,11.2130198 -16.5516,16.3656398 -1.0509,5.15281 0.4405,81.784845 0.5331,84.791995 0.092,3.00717 4.8306,12.14161 16.4151,13.91074 11.2524,1.71847 19.4656,1.57162 19.9365,1.56224 0.02,-2e-4 0.1736,0 0.1736,0 0.471,0.0199 8.6843,0.15563 19.9364,-1.56224 11.5846,-1.76913 16.3228,-10.90357 16.4154,-13.91074 0.092,-3.00715 1.584,-79.639185 0.5331,-84.791995 -1.0509,-5.15262 -8.5904,-14.27566 -16.564,-16.3656398 -7.974,-2.08997 -11.2611,-6.63502 -12.7084,-13.89856 l 0.31,-0.80586 0.038,-2.31843 c -0.1077,-0.34974 -0.1356,-0.68533 -0.9918,-1.2398001 l -0.02,-1.45051 c 0.8134,-0.5556601 1.0877,-1.2893001 1.1404,-1.6614101 0.052,-0.3723 0.03,-2.25378 0.024,-2.67816 0,-0.34138 -0.6988,-1.14564 -1.6118,-1.48762 l 0.6499,-2.43973 -0.3524,-0.53592 -5.1701,-0.0379 0.024,-3.8186 7.6127,-10.03009 -0.02,-15.1631 c -0.2663,-0.69733 -1.321,-2.93135 -4.1057,-3.10075 -2.7851,-0.16959 -3.7546,1.65163 -3.9655,1.96009 l 0,1.71089 c -1.0349,0.28471 -2.1095,0.92276 -2.4425,2.08297 l -0.038,9.80702 c 0.3701,1.498 1.1185,1.70211 1.7604,2.23161 -0.6134,1.57522 -1.084,1.78631 -2.0952,1.85973 -1.0112,0.0738 -1.9902,-0.7059 -2.1696,-2.08279 1.5058,-0.75357 1.6624,-1.25496 1.9463,-2.00855 l 0.038,-9.95586 c -0.3352,-0.75419 -0.7802,-1.39625 -1.9839,-1.88445 l 0,-1.12829 5.9018,-7.51334 0,-1.06623 c 0.9887,-0.43516 1.5661,-1.21568 1.8598,-1.98383 l 0,-3.53349 0.6075,-0.53312 0,-3.12428 c -3.2093,-0.69553 -4.8026,-0.89106 -8.0838,-0.0738 z"
+       id="path2998-82-9-8-1-5-7-1-7-6-61-6-4-5-63-6-62-3-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccscccccccccccccccccccsccsccsccscccccccccccccczcccccscccccccccccc"
+       inkscape:export-xdpi="252.36584"
+       inkscape:export-ydpi="252.36584"
+       inkscape:export-filename="C:\Users\Max\Pictures\the_juicy_void_front_back.png" />
+    <g
+       id="g6519-3"
+       transform="matrix(0.84412307,0,0,0.84412307,2292.087,952.85821)"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="C:\Users\Max\Pictures\the_juicy_void_front_back.png"
+       inkscape:export-xdpi="252.36584"
+       inkscape:export-ydpi="252.36584">
+      <text
+         inkscape:export-ydpi="346.14999"
+         inkscape:export-xdpi="346.14999"
+         inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
+         sodipodi:linespacing="125%"
+         id="text3336-9-9-1-2-9-5-7-6-2"
+         y="-1076.7251"
+         x="1161.3663"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.25216293px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+           y="-1076.7251"
+           x="1161.3663"
+           id="tspan3338-1-1-6-7-6-6-9-1-0"
+           sodipodi:role="line">YES</tspan></text>
+      <text
+         inkscape:export-ydpi="346.14999"
+         inkscape:export-xdpi="346.14999"
+         inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
+         sodipodi:linespacing="125%"
+         id="text3336-3-2-3-3-2-8-0-2-2-6"
+         y="-1052.8525"
+         x="1158.8492"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+           y="-1052.8525"
+           x="1158.8492"
+           id="tspan3338-6-7-4-9-2-57-9-3-9-1"
+           sodipodi:role="line">BREW</tspan></text>
+      <text
+         inkscape:export-ydpi="346.14999"
+         inkscape:export-xdpi="346.14999"
+         inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
+         sodipodi:linespacing="125%"
+         id="text3336-7-0-5-3-1-5-6-92-3-5"
+         y="-1028.592"
+         x="1158.8492"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+           y="-1028.592"
+           x="1158.8492"
+           id="tspan3338-5-9-8-3-0-9-2-2-1-5"
+           sodipodi:role="line">NEIN</tspan></text>
+    </g>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00da00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 5869.9251,-190.09128 6200.2534,508.86918 5282.8682,942.42553 4952.5396,243.46495 Z"
+       id="rect4197-6-5-8-2-1-9"
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath5554)"
+       inkscape:export-filename="C:\Users\Max\Pictures\half_haze_brewgr.png"
+       inkscape:export-xdpi="56.27"
+       inkscape:export-ydpi="56.27" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e385ce;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 6120.3264,543.18504 6457.137,1255.8613 5521.7498,1697.9252 5184.939,985.24896 Z"
+       id="rect4197-6-8-4-0-8"
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath5550)"
+       inkscape:export-filename="C:\Users\Max\Pictures\half_haze_brewgr.png"
+       inkscape:export-xdpi="56.27"
+       inkscape:export-ydpi="56.27" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e385ce;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 5655.5585,609.95933 -38.5712,118.69951 35.0933,0 5.9835,-22.15435 38.4091,0 5.8214,22.15435 34.9314,0 -39.0544,-118.69951 -42.6131,0 z m -152.5807,0.4832 0,118.21631 32.0988,0 0,-48.19156 37.1159,0 0,48.19156 32.1016,0 0,-118.21631 -32.1016,0 0,43.8255 -37.1159,0 0,-43.8255 -32.0988,0 z m 247.1033,0 0,113.67375 44.9655,-21.25162 -13.0258,0 0,-92.42213 -31.9397,0 z m 96.3861,0 0,68.12092 42.1647,-19.92647 -10.7112,0 0,-22.56231 38.4063,0 0,-25.63214 -69.8598,0 z m -169.3997,19.00349 c 0.5391,2.96483 1.6419,7.86948 3.313,14.71554 1.725,6.84608 3.1801,12.42553 4.366,16.73801 l 5.0952,19.40567 -25.146,0 c 4.9053,-18.54368 8.0567,-30.96795 9.4582,-37.27497 1.4555,-6.307 2.4285,-10.83504 2.9136,-13.58425 z m -21.509,121.27168 -6.9383,21.34711 45.1738,-21.34711 -38.2355,0 z m -152.5807,0.48609 0,89.6937 32.0988,-15.1698 0,-4.50206 9.5249,0 59.6926,-28.21011 0,-41.81173 -32.1016,0 0,43.82549 -37.1159,0 0,-43.82549 -32.0988,0 z"
+       id="rect4197-6-5-1-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Max\Pictures\half_haze_brewgr.png"
+       inkscape:export-xdpi="56.27"
+       inkscape:export-ydpi="56.27" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00da00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 5871.1556,663.07877 -42.6884,20.1753 0,49.84656 31.4535,0 0,-44.38972 35.4146,0 0,-25.63214 -24.1797,0 z m -93.5852,44.22768 -45.4893,21.49756 0,4.29662 77.4635,0 0,-25.79418 -31.9742,0 z m -101.2526,47.85303 -45.7902,21.63933 -31.5403,97.06306 35.0933,0 5.9835,-22.15723 38.4091,0 5.8214,22.15723 34.9314,0 -39.0544,-118.70239 -3.8538,0 z m 49.1347,0.48609 0,25.79418 49.9709,0 -51.1861,72.69241 0,19.72971 92.101,0 0,-25.79416 -52.4795,0 51.1833,-72.77343 0,-19.64871 -89.5896,0 z m 107.8639,0 0,118.2163 70.1868,0 0,-26.0372 -38.2471,0 0,-22.31639 35.4174,0 0,-25.63214 -35.4174,0 0,-18.59843 38.2471,0 0,-25.63214 -70.1868,0 z m -174.2489,19.0006 c 0.5391,2.96483 1.6419,7.86949 3.313,14.71555 1.725,6.84607 3.1801,12.42552 4.366,16.73801 l 5.0952,19.40855 -25.146,0 c 4.9053,-18.54367 8.0567,-30.97085 9.4582,-37.27785 1.4555,-6.30701 2.4285,-10.83506 2.9136,-13.58426 z m -72.7734,23.05707 -59.1689,27.96418 27.0673,0 0,48.19445 32.1016,0 0,-76.15863 z m -69.2175,32.71216 -32.0988,15.16982 0,28.27665 32.0988,0 0,-43.44647 z"
+       id="rect4197-6-7-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Max\Pictures\half_haze_brewgr.png"
+       inkscape:export-xdpi="56.27"
+       inkscape:export-ydpi="56.27" />
+    <g
+       id="g8082-9"
+       transform="translate(2954.8569,507.14283)"
+       inkscape:export-filename="C:\Users\Max\Pictures\half_haze_brewgr.png"
+       inkscape:export-xdpi="56.27"
+       inkscape:export-ydpi="56.27">
+      <circle
+         inkscape:export-ydpi="126.1935"
+         inkscape:export-xdpi="126.1935"
+         inkscape:export-filename="C:\Users\Max\Pictures\half_haze_front_back.png"
+         r="108.18172"
+         cy="547.28583"
+         cx="2745.1431"
+         id="path3398-6-6-2-9-7-3-0-7-0-7-7-0-6-3"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         inkscape:export-filename="C:\Users\Max\Pictures\half_haze_front_back.png"
+         inkscape:export-ydpi="126.1935"
+         inkscape:export-xdpi="126.1935"
+         sodipodi:nodetypes="cccccccccccscccccccccccccccccccsccsccsccscccccccccccccczcccccscccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path2998-82-9-8-1-5-7-1-7-6-61-6-4-5-63-6-62-3-6-6-22-8-2-9"
+         d="m 2741.7695,452.6396 0,2.97009 0.5134,0.26887 0.11,3.71571 c 0.3779,0.93028 0.9779,1.5212 1.7477,2.1023 l 0,0.55007 -5.5978,6.79581 0.024,2.11445 c -1.1386,0.45511 -2.0537,1.1568 -2.3222,1.87013 l 0,9.64365 c 0.2766,0.96673 0.8274,1.82203 1.8578,2.37118 0.7838,2.94579 2.2857,4.753 5.3779,4.84021 3.0923,0.0872 5.1423,-2.03839 5.5124,-4.57126 1.6395,-0.93011 1.6712,-1.57679 1.8433,-2.44457 l 0,-9.37478 c -0.3625,-1.44106 -1.0651,-1.69346 -1.9288,-2.17562 l 0,-0.62337 c 1.0265,-0.97322 1.7634,-0.58851 2.5547,0.3178 l 0,13.91866 c 0,0 -5.1226,6.38173 -7.6149,9.42662 l -0.1099,4.98685 -5.3048,0 -0.2921,0.50396 0.6956,2.38066 c -0.9914,0.28768 -1.7801,1.16812 -1.7847,1.52778 -0.01,0.41825 -0.027,2.27315 0.025,2.64013 0.052,0.3669 0.3101,1.09006 1.1122,1.63787 l 0,1.43 c -0.8442,0.54665 -0.8832,0.87752 -0.99,1.22229 l 0.037,2.28563 0.3055,0.79447 c -1.4266,7.16063 -4.6673,11.64127 -12.5281,13.70164 -7.8611,2.06028 -15.2813,11.05417 -16.3174,16.13389 -1.0359,5.07979 0.4344,80.62634 0.5257,83.59093 0.091,2.96451 4.7622,11.96971 16.1827,13.71377 11.093,1.69412 19.1898,1.54941 19.6541,1.54009 0.014,-2.5e-4 0.1712,0 0.1712,0 0.4642,0.01 8.5611,0.15403 19.654,-1.54009 11.4205,-1.74406 16.0915,-10.74926 16.1827,-13.71377 0.091,-2.96459 1.5616,-78.51114 0.5257,-83.59093 -1.0359,-5.07972 -8.4686,-14.07361 -16.3294,-16.13389 -7.861,-2.06037 -11.1016,-6.54101 -12.5284,-13.70164 l 0.3057,-0.79447 0.037,-2.28563 c -0.1069,-0.34477 -0.1336,-0.67564 -0.9778,-1.22229 l -0.012,-1.43 c 0.802,-0.54781 1.0724,-1.27097 1.1244,-1.63787 0.052,-0.36698 0.029,-2.22188 0.024,-2.64013 -0.01,-0.33661 -0.6889,-1.12942 -1.5889,-1.4667 l 0.6405,-2.40504 -0.3472,-0.52843 -5.0969,-0.0366 0.024,-3.76456 7.5048,-9.88814 -0.012,-14.9483 c -0.2627,-0.68737 -1.3024,-2.88979 -4.0477,-3.05672 -2.7456,-0.16693 -3.7013,1.62813 -3.9094,1.93221 l 0,1.68672 c -1.0202,0.2806 -2.0796,0.90964 -2.4078,2.05337 l -0.037,9.6682 c 0.3649,1.47685 1.1027,1.67807 1.7355,2.20008 -0.6048,1.55283 -1.0686,1.76095 -2.0655,1.83335 -0.9969,0.0724 -1.9622,-0.69594 -2.139,-2.05337 1.4845,-0.74296 1.639,-1.23718 1.9189,-1.98006 l 0.037,-9.81491 c -0.3305,-0.74346 -0.7692,-1.37632 -1.9557,-1.85781 l 0,-1.11228 5.818,-7.40687 0,-1.05119 c 0.9747,-0.4289 1.544,-1.19832 1.8335,-1.95568 l 0,-3.48345 0.5989,-0.52551 0,-3.0801 c -3.1638,-0.68554 -4.7346,-0.87835 -7.9693,-0.0732 z"
+         style="fill:#e385ce;fill-opacity:1;stroke:none;stroke-width:1.70000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         inkscape:export-ydpi="126.1935"
+         inkscape:export-xdpi="126.1935"
+         inkscape:export-filename="C:\Users\Max\Pictures\half_haze_front_back.png"
+         style="fill:#ffffff;fill-opacity:1"
+         transform="matrix(0.8321671,0,0,0.8321671,1746.4916,1457.08)"
+         id="g6519-3-5-6-8-8-0">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.25216293px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1161.3663"
+           y="-1076.7251"
+           id="text3336-9-9-1-2-9-5-7-6-2-6-1-5-4-8"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
+           inkscape:export-xdpi="346.14999"
+           inkscape:export-ydpi="346.14999"><tspan
+             sodipodi:role="line"
+             id="tspan3338-1-1-6-7-6-6-9-1-0-9-0-0-7-7"
+             x="1161.3663"
+             y="-1076.7251"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">YES</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1158.8492"
+           y="-1052.8525"
+           id="text3336-3-2-3-3-2-8-0-2-2-6-3-6-9-2-2"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
+           inkscape:export-xdpi="346.14999"
+           inkscape:export-ydpi="346.14999"><tspan
+             sodipodi:role="line"
+             id="tspan3338-6-7-4-9-2-57-9-3-9-1-7-1-6-4-8"
+             x="1158.8492"
+             y="-1052.8525"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">BREW</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1158.8492"
+           y="-1028.592"
+           id="text3336-7-0-5-3-1-5-6-92-3-5-4-5-3-0-4"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
+           inkscape:export-xdpi="346.14999"
+           inkscape:export-ydpi="346.14999"><tspan
+             sodipodi:role="line"
+             id="tspan3338-5-9-8-3-0-9-2-2-1-5-5-9-8-6-4"
+             x="1158.8492"
+             y="-1028.592"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">NEIN</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

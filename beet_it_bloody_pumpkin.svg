@@ -13,7 +13,7 @@
    height="297mm"
    id="svg3146"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="beet_it_bloody_pumpkin.svg">
   <defs
      id="defs3148">
@@ -1056,9 +1056,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="326.47393"
-     inkscape:cy="611.74106"
+     inkscape:zoom="0.64"
+     inkscape:cx="460.78216"
+     inkscape:cy="783.24339"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1067,16 +1067,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     showguides="true">
-    <sodipodi:guide
-       position="-161.62441,1761.706"
-       orientation="-0.70710678,0.70710678"
-       id="guide8116" />
-    <sodipodi:guide
-       position="357.14286,1300"
-       orientation="0,1"
-       id="guide4505" />
-  </sodipodi:namedview>
+     showguides="true" />
   <metadata
      id="metadata3151">
     <rdf:RDF>
@@ -1115,11 +1106,10 @@
        inkscape:export-ydpi="189.45592" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.34369659px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;fill:#f30b3a;fill-opacity:1;stroke:#e40b39;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;fill:#f30b3a;fill-opacity:1;stroke:#e40b39;stroke-opacity:1"
        x="26.427805"
        y="553.30127"
        id="text3008"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="G:\yesbrewnein_cmon_cali.png"
        inkscape:export-xdpi="189.45592"
        inkscape:export-ydpi="189.45592"><tspan
@@ -1127,7 +1117,7 @@
          id="tspan3010"
          x="26.427805"
          y="553.30127"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.36052704px;font-family:Bebas;-inkscape-font-specification:Bebas;word-spacing:8px;fill:#f30b3a;fill-opacity:1;stroke:#e40b39;stroke-opacity:1;">BEET ROOT &amp; PUMPKIN ALE</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.36052704px;line-height:1.25;font-family:Bebas;-inkscape-font-specification:Bebas;word-spacing:8px;fill:#f30b3a;fill-opacity:1;stroke:#e40b39;stroke-opacity:1">BEET ROOT &amp; PUMPKIN ALE</tspan></text>
     <path
        sodipodi:nodetypes="sssssssssscsssssssssscsscssssssssssssssscssssssssssscssssssscsssssssssssscssscsssssssssssssss"
        inkscape:connector-curvature="0"
@@ -1331,28 +1321,27 @@
        inkscape:export-ydpi="189.45592" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:77.82250214px;line-height:117.99999475%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ff0a3e;stroke-width:2.77502346;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ff0a3e;stroke-width:2.77502346;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="48.753616"
        y="115.09964"
        id="text4159"
-       sodipodi:linespacing="117.99999%"
        inkscape:export-xdpi="189.45592"
        inkscape:export-ydpi="189.45592"><tspan
          sodipodi:role="line"
          id="tspan4161"
          x="48.753616"
          y="115.09964"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:117.99999475%;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#000000;fill-opacity:1;stroke:#ff0a3e;stroke-width:2.77502346;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;">Beet it,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:77.82250214px;line-height:117.99999475%;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#000000;fill-opacity:1;stroke:#ff0a3e;stroke-width:2.77502346;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Beet it,</tspan><tspan
          sodipodi:role="line"
          x="48.753616"
          y="206.93019"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:117.99999475%;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';letter-spacing:7.58256388px;fill:#000000;fill-opacity:1;stroke:#ff0a3e;stroke-width:2.77502346;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:77.82250214px;line-height:117.99999475%;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';letter-spacing:7.58256388px;fill:#000000;fill-opacity:1;stroke:#ff0a3e;stroke-width:2.77502346;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan4163"
          dx="0 0 0 0 0 0">Bloody</tspan><tspan
          sodipodi:role="line"
          x="48.753616"
          y="298.76074"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:117.99999475%;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#000000;fill-opacity:1;stroke:#ff0a3e;stroke-width:2.77502346;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:77.82250214px;line-height:117.99999475%;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#000000;fill-opacity:1;stroke:#ff0a3e;stroke-width:2.77502346;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan4165">Pumpkin</tspan></text>
     <rect
        y="38.300903"
@@ -1366,11 +1355,10 @@
        inkscape:export-ydpi="189.45592" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.65970612px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;fill:#75071e;fill-opacity:1;stroke:#75071e;stroke-width:0.98785412;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;fill:#75071e;fill-opacity:1;stroke:#75071e;stroke-width:0.98785412;stroke-opacity:1"
        x="411.08307"
        y="110.2226"
        id="text3008-7"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="G:\yesbrewnein_cmon_cali.png"
        inkscape:export-xdpi="189.45592"
        inkscape:export-ydpi="189.45592"
@@ -1379,19 +1367,18 @@
          id="tspan3010-3"
          x="411.08307"
          y="110.2226"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.77314377px;font-family:Bebas;-inkscape-font-specification:Bebas;word-spacing:10.35112476px;fill:#75071e;fill-opacity:1;stroke:#75071e;stroke-width:0.98785412;stroke-opacity:1">BEET ROOT &amp;</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.77314377px;line-height:1.25;font-family:Bebas;-inkscape-font-specification:Bebas;word-spacing:10.35112476px;fill:#75071e;fill-opacity:1;stroke:#75071e;stroke-width:0.98785412;stroke-opacity:1">BEET ROOT &amp;</tspan><tspan
          sodipodi:role="line"
          x="411.08307"
          y="177.43903"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.77314377px;font-family:Bebas;-inkscape-font-specification:Bebas;word-spacing:10.35112476px;fill:#75071e;fill-opacity:1;stroke:#75071e;stroke-width:0.98785412;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.77314377px;line-height:1.25;font-family:Bebas;-inkscape-font-specification:Bebas;word-spacing:10.35112476px;fill:#75071e;fill-opacity:1;stroke:#75071e;stroke-width:0.98785412;stroke-opacity:1"
          id="tspan5649">PUMPKIN ALE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.65970612px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;fill:#ff0a3e;fill-opacity:1;stroke:#ff0a3e;stroke-width:0.98785412;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;fill:#ff0a3e;fill-opacity:1;stroke:#ff0a3e;stroke-width:0.98785412;stroke-opacity:1"
        x="407.09052"
        y="106.37531"
        id="text3008-7-0"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="G:\yesbrewnein_cmon_cali.png"
        inkscape:export-xdpi="189.45592"
        inkscape:export-ydpi="189.45592"
@@ -1400,11 +1387,11 @@
          id="tspan3010-3-0"
          x="407.09052"
          y="106.37531"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.77314377px;font-family:Bebas;-inkscape-font-specification:Bebas;word-spacing:10.35112476px;fill:#ff0a3e;fill-opacity:1;stroke:#ff0a3e;stroke-width:0.98785412;stroke-opacity:1">BEET ROOT &amp;</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.77314377px;line-height:1.25;font-family:Bebas;-inkscape-font-specification:Bebas;word-spacing:10.35112476px;fill:#ff0a3e;fill-opacity:1;stroke:#ff0a3e;stroke-width:0.98785412;stroke-opacity:1">BEET ROOT &amp;</tspan><tspan
          sodipodi:role="line"
          x="407.09052"
          y="173.59174"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.77314377px;font-family:Bebas;-inkscape-font-specification:Bebas;word-spacing:10.35112476px;fill:#ff0a3e;fill-opacity:1;stroke:#ff0a3e;stroke-width:0.98785412;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.77314377px;line-height:1.25;font-family:Bebas;-inkscape-font-specification:Bebas;word-spacing:10.35112476px;fill:#ff0a3e;fill-opacity:1;stroke:#ff0a3e;stroke-width:0.98785412;stroke-opacity:1"
          id="tspan5649-7">PUMPKIN ALE</tspan></text>
     <rect
        y="184.3009"
@@ -1418,11 +1405,10 @@
        inkscape:export-ydpi="189.45592" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.87867165px;line-height:120.00000477%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#fffc0d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#fffc0d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="429.21695"
        y="552.17523"
        id="text5196-0-3-9-0-2-4"
-       sodipodi:linespacing="120%"
        inkscape:export-xdpi="189.45592"
        inkscape:export-ydpi="189.45592"><tspan
          sodipodi:role="line"
@@ -1437,18 +1423,17 @@
            id="tspan8876">YESBREWNEIN.GITHUB.IO</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.735672px;line-height:117.99999475%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f40a39;fill-opacity:1;stroke:none;stroke-width:3.0313611;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f40a39;fill-opacity:1;stroke:none;stroke-width:3.0313611;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="382.91885"
        y="556.00433"
        id="text4159-4"
-       sodipodi:linespacing="117.99999%"
        inkscape:export-xdpi="189.45592"
        inkscape:export-ydpi="189.45592"
        transform="scale(1.0921219,0.9156487)"><tspan
          sodipodi:role="line"
          x="382.91885"
          y="556.00433"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:117.99999475%;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';letter-spacing:-11.81608486px;fill:#f40a39;fill-opacity:1;stroke:none;stroke-width:3.0313611;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.735672px;line-height:117.99999475%;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';letter-spacing:-11.81608486px;fill:#f40a39;fill-opacity:1;stroke:none;stroke-width:3.0313611;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan4165-3">LEIKUXC</tspan></text>
     <path
        style="fill:#75071e;fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1460,11 +1445,10 @@
        inkscape:export-ydpi="189.45592" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.86755371px;line-height:100.99999905%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#fffc0d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#fffc0d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="627.65204"
        y="403.96719"
        id="text3056-0"
-       sodipodi:linespacing="101%"
        transform="scale(1.1022928,0.90719997)"
        inkscape:export-xdpi="189.45592"
        inkscape:export-ydpi="189.45592"><tspan
@@ -1472,101 +1456,100 @@
          id="tspan3058-9"
          x="627.65204"
          y="403.96719"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';text-align:center;text-anchor:middle;fill:#fffc0d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">YES</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.86755371px;line-height:89.99999762%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';text-align:center;text-anchor:middle;fill:#fffc0d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">YES</tspan><tspan
          sodipodi:role="line"
          x="627.65204"
-         y="462.8277"
+         y="469.05383"
          id="tspan3060-4"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:72.00000286%;font-family:Amatic;-inkscape-font-specification:'Amatic Bold';text-align:center;text-anchor:middle;fill:#fffc0d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">BREW</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:69.86755371px;line-height:72.00000286%;font-family:Amatic;-inkscape-font-specification:'Amatic Bold';text-align:center;text-anchor:middle;fill:#fffc0d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">BREW</tspan><tspan
          sodipodi:role="line"
          x="627.65204"
-         y="523.3468"
+         y="522.59674"
          id="tspan3062-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100.99999905%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';text-align:center;text-anchor:middle;fill:#fffc0d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">NEIN</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.86755371px;line-height:100.99999905%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';text-align:center;text-anchor:middle;fill:#fffc0d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">NEIN</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.54163361px;line-height:130.99999428%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#490608;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#490608;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="433.66428"
        y="209.40195"
        id="text5081-4-9-2-1-4"
-       sodipodi:linespacing="130.99999%"
        inkscape:export-xdpi="189.45592"
        inkscape:export-ydpi="189.45592"><tspan
          sodipodi:role="line"
          id="tspan5083-8-7-5-7-8"
          x="433.66428"
          y="209.40195"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1">Zutaten:</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:1.30999994;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1">Zutaten:</tspan><tspan
          sodipodi:role="line"
          x="433.66428"
-         y="232.8136"
+         y="232.20535"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;line-height:150%;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
          id="tspan5102-9-6-3-0-1">Wasser</tspan><tspan
          sodipodi:role="line"
          x="433.66428"
-         y="256.38745"
+         y="255.77922"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;line-height:150%;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
          id="tspan5294-9-6-5-3-7">Rote Beete, Kürbis, Zimt,</tspan><tspan
          sodipodi:role="line"
          x="433.66428"
-         y="277.7218"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
+         y="277.86008"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;line-height:1.30999994;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
          id="tspan9719-1">Nelke, Muskat, Ingwer,</tspan><tspan
          sodipodi:role="line"
          x="433.66428"
-         y="298.30963"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
+         y="298.44791"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;line-height:1.30999994;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
          id="tspan4542">Kardamom</tspan><tspan
          sodipodi:role="line"
          x="433.66428"
-         y="321.13699"
+         y="320.52875"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;line-height:150%;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
          id="tspan5112-6-6-5-1-8">Gerstenmalz:</tspan><tspan
          sodipodi:role="line"
          x="433.66428"
-         y="342.47134"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
+         y="342.60962"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;line-height:1.30999994;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
          id="tspan10694">Pale Ale, WIENER,</tspan><tspan
          sodipodi:role="line"
          x="433.66428"
-         y="363.05917"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
+         y="363.19745"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;line-height:1.30999994;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
          id="tspan4541">Caramünch II,</tspan><tspan
          sodipodi:role="line"
          x="433.66428"
-         y="383.64703"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
+         y="383.78531"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;line-height:1.30999994;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
          id="tspan9721-1">CaraAMBER, Carafa II</tspan><tspan
          sodipodi:role="line"
          x="433.66428"
-         y="406.4744"
+         y="405.86615"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;line-height:150%;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
          id="tspan5180-6-2-4-1-3">Hopfen: Magnum,</tspan><tspan
          sodipodi:role="line"
          x="433.66428"
-         y="427.80872"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
+         y="427.94699"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;line-height:1.30999994;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
          id="tspan5194-2-7-6-9-3">Northern Brewer,</tspan><tspan
          sodipodi:role="line"
          x="433.66428"
-         y="448.39658"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
+         y="448.53485"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;line-height:1.30999994;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
          id="tspan10706">wilder Hopfen </tspan><tspan
          sodipodi:role="line"
          x="433.66428"
-         y="471.22394"
+         y="470.61569"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;line-height:150%;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
          id="tspan10726">Hefe: WLP001</tspan><tspan
          sodipodi:role="line"
          x="433.66428"
-         y="494.79779"
+         y="494.18954"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.715909px;line-height:150%;font-family:'Double Feature';-inkscape-font-specification:'Double Feature';fill:#490608;fill-opacity:1"
          id="tspan10739">MHD: 09.2016</tspan><tspan
          sodipodi:role="line"
          x="433.66428"
-         y="518.37164"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:19.72515869px;line-height:130.99999428%;font-family:Amatic;-inkscape-font-specification:'Amatic Bold Condensed';fill:#490608;fill-opacity:1"
-         id="tspan4663-5" /></text>
+         y="519.06055"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:15.715909px;line-height:130.99999428%;font-family:Amatic;-inkscape-font-specification:'Amatic Bold Condensed';fill:#490608;fill-opacity:1"
+         id="tspan4663-5"> </tspan></text>
     <path
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:78.0973587px;line-height:117.99999475%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b10a2d;fill-opacity:1;stroke:#b10a22;stroke-width:2.31513262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 674.36819,307.44801 c 0.057,0.68297 0.16745,1.29474 0.34261,1.82019 0.34627,0.95225 0.82127,1.96888 1.42724,3.05098 0.60598,1.03882 1.34258,1.79708 2.20827,2.27322 0.86568,0.43284 1.64399,0.84285 2.33653,1.2324 0.69255,0.34627 1.12585,1.06122 1.29899,2.1433 0.0866,0.47613 0.19488,0.90943 0.32473,1.29898 0.17314,0.38957 0.30313,0.82124 0.3897,1.29737 0.0866,0.47612 0.10823,0.97441 0.0649,1.49382 -0.0434,0.5194 -0.0649,1.0177 -0.0649,1.49382 0,0.34627 0.065,0.71296 0.19484,1.10251 0.12986,0.43283 0.30318,0.77948 0.51961,1.03918 0.21641,0.30299 0.45309,0.45465 0.71279,0.45465 0.303,0.0434 0.62797,-0.17337 0.97424,-0.6495 0.43285,-0.60597 0.64949,-1.21096 0.64949,-1.81694 0,-0.60598 0.0434,-1.25592 0.1299,-1.94846 0.12985,-0.73583 0.28151,-1.44915 0.45465,-2.1417 0.21642,-0.64925 0.49806,-1.27754 0.84433,-1.88352 0.30299,-0.60596 0.77961,-1.03928 1.42888,-1.29898 0.69254,-0.2597 1.3192,-0.15136 1.8819,0.32475 0.34626,0.34628 0.56292,0.71458 0.64948,1.10413 0.0866,0.43283 0.10823,0.88781 0.0649,1.36393 0,0.47611 -0.0217,0.92946 -0.0649,1.36231 0,0.47612 0.0867,0.90942 0.2598,1.29897 0.21641,0.5627 0.45472,1.06098 0.71444,1.49383 0.30298,0.43284 0.49797,0.95116 0.58453,1.55715 0.0434,0.56269 -4e-5,1.08264 -0.1299,1.55876 -0.12986,0.51941 -0.21651,1.0177 -0.25979,1.49383 -0.0434,0.30298 -0.0866,0.66967 -0.12989,1.10251 -0.0434,0.47612 -0.0434,0.93109 0,1.36393 0.0866,0.43283 0.23822,0.77948 0.45463,1.03917 0.2597,0.30299 0.62638,0.41132 1.10251,0.32475 0.34627,-0.0434 0.58459,-0.23827 0.71443,-0.58454 0.17315,-0.30298 0.28146,-0.67129 0.32475,-1.10413 0.0433,-0.43284 0.0649,-0.88617 0.0649,-1.3623 l 0,-1.03918 c 0.0866,-0.90897 0.0866,-1.97055 0,-3.1825 -0.0866,-1.21195 -0.0649,-2.40191 0.0649,-3.57057 0.12984,-1.12538 0.47648,-2.12034 1.03918,-2.98603 0.56269,-0.82238 1.55764,-1.34235 2.98601,-1.55877 0.60598,-0.0866 1.2126,-0.23822 1.81858,-0.45463 0.64926,-0.25971 1.27592,-0.36804 1.88189,-0.32475 0.69254,0.0433 1.3425,0.17328 1.94846,0.38969 0.64927,0.17313 1.27755,0.34645 1.88352,0.51959 1.16867,0.34627 2.07698,0.25961 2.72623,-0.2598 0.69254,-0.47611 1.21251,-1.14611 1.55878,-2.01178 0.38955,-0.86569 0.62786,-1.81894 0.71444,-2.85775 0.0866,-1.03882 0.10823,-1.94713 0.0649,-2.72623 0,-0.0866 -0.0217,-0.15156 -0.0649,-0.19485 l 0,-0.25979 c -0.0168,-0.28544 -0.0579,-0.53467 -0.10067,-0.78102 l -36.99002,0 z"

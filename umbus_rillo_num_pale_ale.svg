@@ -13,7 +13,7 @@
    height="297mm"
    id="svg3146"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="umbus_rillo_num_pale_ale.svg">
   <defs
      id="defs3148" />
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="453.38503"
-     inkscape:cy="743.12235"
+     inkscape:cx="128.38503"
+     inkscape:cy="823.12235"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,11 +63,10 @@
        inkscape:export-ydpi="189.45592" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.2877655px;line-height:100%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#3f2f73;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#3f2f73;fill-opacity:1;stroke:none"
        x="-464.45764"
        y="398.04129"
        id="text3966-8"
-       sodipodi:linespacing="100%"
        transform="matrix(0,-0.99039044,1.0097028,0,0,0)"
        inkscape:export-filename="G:\yesbrewnein_cmon_cali.png"
        inkscape:export-xdpi="189.45592"
@@ -76,15 +75,15 @@
          id="tspan3968-8"
          x="-464.45764"
          y="398.04129"
-         style="font-size:40.22203827px;letter-spacing:0px;fill:#3f2f73;fill-opacity:1" /><tspan
+         style="font-size:40.22203827px;line-height:1;letter-spacing:0px;fill:#3f2f73;fill-opacity:1"> </tspan><tspan
          sodipodi:role="line"
          x="-464.45764"
-         y="415.28824"
+         y="416.53226"
          id="tspan3970-2"
          style="font-size:11.61969948px;line-height:100%;fill:#3f2f73;fill-opacity:1">Zutaten: Wasser, Gerstenmalz, Hopfen</tspan><tspan
          sodipodi:role="line"
          x="-464.45764"
-         y="426.90796"
+         y="428.15195"
          style="font-size:11.61969948px;line-height:100%;fill:#3f2f73;fill-opacity:1"
          id="tspan4327">(Columbus, Amarillo®, Ahtanum™), Hefe                          <tspan
    id="tspan3176"
@@ -101,11 +100,10 @@
        inkscape:export-ydpi="189.45592" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.8711586px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#e03f1b;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#e03f1b;fill-opacity:1;stroke:none"
        x="83.679611"
        y="543.50824"
        id="text3008"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="G:\yesbrewnein_cmon_cali.png"
        inkscape:export-xdpi="189.45592"
        inkscape:export-ydpi="189.45592"><tspan
@@ -113,14 +111,13 @@
          id="tspan3010"
          x="83.679611"
          y="543.50824"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.91410828px;font-family:'Legend M54';-inkscape-font-specification:'Legend M54';fill:#e03f1b;fill-opacity:1">AMERICAN PALE ALE</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.91410828px;line-height:1.25;font-family:'Legend M54';-inkscape-font-specification:'Legend M54';fill:#e03f1b;fill-opacity:1">AMERICAN PALE ALE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.2877655px;line-height:100%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#3f2f73;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#3f2f73;fill-opacity:1;stroke:none"
        x="-64.389137"
        y="69.375778"
        id="text3966-8-1"
-       sodipodi:linespacing="100%"
        transform="matrix(0,-0.99039044,1.0097028,0,0,0)"
        inkscape:export-filename="G:\yesbrewnein_cmon_cali.png"
        inkscape:export-xdpi="189.45592"
@@ -132,18 +129,17 @@
          style="font-weight:bold;font-size:11.61969948px;line-height:100%;-inkscape-font-specification:'Futura Md BT Bold';text-align:end;text-anchor:end;fill:#3f2f73;fill-opacity:1"> MHD. 11.2015</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.41486168px;line-height:100.99999905%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.9;fill:#3f2f73;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.9;fill:#3f2f73;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="81.303795"
        y="55.651672"
        id="text4159"
-       sodipodi:linespacing="101%"
        inkscape:export-xdpi="189.45592"
        inkscape:export-ydpi="189.45592"><tspan
          sodipodi:role="line"
-         x="81.303795"
+         x="86.879044"
          y="55.651672"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.65944672px;line-height:81.00000024%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT Bold';text-align:center;letter-spacing:-9.05904198px;text-anchor:middle;fill:#3f2f73;fill-opacity:1"
-         id="tspan4295" /><tspan
+         id="tspan4295"> </tspan><tspan
          sodipodi:role="line"
          x="81.303795"
          y="131.51582"
@@ -163,7 +159,7 @@
          x="81.303795"
          y="359.10828"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:93.65944672px;line-height:81.00000024%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT';text-align:start;letter-spacing:-5px;text-anchor:start;fill:#3f2f73;fill-opacity:1"
-         id="tspan5093" /></text>
+         id="tspan5093"> </tspan></text>
     <g
        id="g5212"
        transform="translate(-2,-0.3588726)"
@@ -173,13 +169,12 @@
          inkscape:export-ydpi="189.45592"
          inkscape:export-xdpi="189.45592"
          transform="scale(1.1022928,0.90719997)"
-         sodipodi:linespacing="101%"
          id="text3056-0-8-1-9-5"
          y="455.48206"
          x="320.67957"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.26515007px;line-height:100.99999905%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;opacity:1;fill:#e0a91b;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;opacity:1;fill:#e0a91b;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100.99999905%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';text-align:center;text-anchor:middle;fill:#e0a91b;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.26515007px;line-height:100.99999905%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';text-align:center;text-anchor:middle;fill:#e0a91b;fill-opacity:1"
            id="tspan3062-8-6-7-7-8"
            y="455.48206"
            x="320.67957"
@@ -200,75 +195,72 @@
          inkscape:export-ydpi="189.45592"
          inkscape:export-xdpi="189.45592"
          transform="scale(1.1022928,0.90719997)"
-         sodipodi:linespacing="101%"
          id="text3056-0-8"
          y="381.31961"
          x="319.60068"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.00310898px;line-height:100.99999905%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#e0a91b;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#e0a91b;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';text-align:center;text-anchor:middle;fill:#e0a91b;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.00310898px;line-height:89.99999762%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';text-align:center;text-anchor:middle;fill:#e0a91b;fill-opacity:1"
            y="381.31961"
            x="319.60068"
            id="tspan3058-9-5"
            sodipodi:role="line">YES</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:72.00000286%;font-family:Amatic;-inkscape-font-specification:'Amatic Bold';text-align:center;text-anchor:middle;fill:#e0a91b;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.00310898px;line-height:72.00000286%;font-family:Amatic;-inkscape-font-specification:'Amatic Bold';text-align:center;text-anchor:middle;fill:#e0a91b;fill-opacity:1"
            id="tspan3060-4-7"
-           y="434.39709"
+           y="440.01154"
            x="319.60068"
            sodipodi:role="line">BREW</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100.99999905%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';text-align:center;text-anchor:middle;fill:#e0a91b;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.00310898px;line-height:100.99999905%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';text-align:center;text-anchor:middle;fill:#e0a91b;fill-opacity:1"
            id="tspan3062-8-6"
-           y="488.97025"
+           y="487.98761"
            x="319.60068"
            sodipodi:role="line">NEIN</tspan></text>
       <text
          inkscape:export-ydpi="189.45592"
          inkscape:export-xdpi="189.45592"
          transform="scale(1.1022928,0.90719997)"
-         sodipodi:linespacing="101%"
          id="text3056-0-8-2"
          y="381.31961"
          x="319.60068"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.00310898px;line-height:100.99999905%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;opacity:0.25400002;fill:#e0a91b;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;opacity:0.25400002;fill:#e0a91b;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';text-align:center;text-anchor:middle;fill:#e0a91b;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.00310898px;line-height:89.99999762%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';text-align:center;text-anchor:middle;fill:#e0a91b;fill-opacity:1"
            y="381.31961"
            x="319.60068"
            id="tspan3058-9-5-6"
            sodipodi:role="line">YES</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:72.00000286%;font-family:Amatic;-inkscape-font-specification:'Amatic Bold';text-align:center;text-anchor:middle;fill:#e0a91b;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.00310898px;line-height:72.00000286%;font-family:Amatic;-inkscape-font-specification:'Amatic Bold';text-align:center;text-anchor:middle;fill:#e0a91b;fill-opacity:1"
            id="tspan3060-4-7-3"
-           y="434.39709"
+           y="440.01154"
            x="319.60068"
            sodipodi:role="line">BREW</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100.99999905%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';text-align:center;text-anchor:middle;fill:#e0a91b;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.00310898px;line-height:100.99999905%;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';text-align:center;text-anchor:middle;fill:#e0a91b;fill-opacity:1"
            id="tspan3062-8-6-4"
-           y="488.97025"
+           y="487.98761"
            x="319.60068"
            sodipodi:role="line">NEIN</tspan></text>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.39500427px;line-height:81.00000024%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.9;fill:#3f2f73;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.9;fill:#3f2f73;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="295.64352"
        y="203.27791"
        id="text4159-5"
-       sodipodi:linespacing="81%"
        inkscape:export-xdpi="189.45592"
        inkscape:export-ydpi="189.45592"><tspan
          sodipodi:role="line"
          x="295.64352"
          y="203.27791"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:105.58001709px;line-height:81.00000024%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT Bold';text-align:start;letter-spacing:-10.21203804px;text-anchor:start;fill:#3f2f73;fill-opacity:1"
-         id="tspan4295-5" /><tspan
+         id="tspan4295-5"> </tspan><tspan
          sodipodi:role="line"
          x="295.64352"
          y="288.79773"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:105.58001709px;line-height:81.00000024%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT Bold';text-align:start;letter-spacing:-5.63637829px;text-anchor:start;fill:#3f2f73;fill-opacity:1"
-         id="tspan5134-0" /><tspan
+         id="tspan5134-0"> </tspan><tspan
          sodipodi:role="line"
          x="290.00714"
-         y="374.37344"
+         y="374.31754"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.58001709px;line-height:81.00000024%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT';text-align:end;letter-spacing:-5.63637829px;text-anchor:end;fill:#3f2f73;fill-opacity:1"
          id="tspan5255"
          dx="0 0 0"><tspan
@@ -280,34 +272,33 @@
    dx="0">P</tspan>ALE</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.39500427px;line-height:81.00000024%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.9;fill:#3f2f73;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.9;fill:#3f2f73;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-123.90405"
        y="-638.04535"
        id="text4159-5-4"
-       sodipodi:linespacing="81%"
        inkscape:export-xdpi="189.45592"
        inkscape:export-ydpi="189.45592"
-       transform="scale(-1,-1)"><tspan
+       transform="scale(-1)"><tspan
          sodipodi:role="line"
          x="-123.90405"
          y="-638.04535"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:105.58001709px;line-height:81.00000024%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT Bold';text-align:start;letter-spacing:-10.21203804px;text-anchor:start;fill:#3f2f73;fill-opacity:1"
-         id="tspan4295-5-7" /><tspan
+         id="tspan4295-5-7"> </tspan><tspan
          sodipodi:role="line"
          x="-123.90405"
          y="-552.52551"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:105.58001709px;line-height:81.00000024%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT Bold';text-align:start;letter-spacing:-5.63637829px;text-anchor:start;fill:#3f2f73;fill-opacity:1"
-         id="tspan5134-0-7" /><tspan
+         id="tspan5134-0-7"> </tspan><tspan
          sodipodi:role="line"
-         x="-123.90405"
+         x="-103.21411"
          y="-467.00571"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.58001709px;line-height:81.00000024%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT';text-align:end;letter-spacing:-5.63637829px;text-anchor:end;fill:#3f2f73;fill-opacity:1"
-         id="tspan5247-1"><tspan
-           id="tspan4438-3-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.58001709px;line-height:81.00000024%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT';text-align:end;letter-spacing:-5.63637829px;text-anchor:end;fill:#3f2f73;fill-opacity:1" /></tspan><tspan
+         id="tspan5247-1"> <tspan
+   id="tspan4438-3-4"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.58001709px;line-height:81.00000024%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT';text-align:end;letter-spacing:-5.63637829px;text-anchor:end;fill:#3f2f73;fill-opacity:1" /></tspan><tspan
          sodipodi:role="line"
-         x="-103.2141"
-         y="-381.42999"
+         x="-103.21411"
+         y="-381.4859"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.58001709px;line-height:81.00000024%;font-family:'Futura Md BT';-inkscape-font-specification:'Futura Md BT';text-align:end;letter-spacing:-5.63637829px;text-anchor:end;fill:#3f2f73;fill-opacity:1"
          id="tspan5255-1"
          dx="0">ALE </tspan></text>

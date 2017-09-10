@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg4446"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    width="108.6"
    height="179.7"
    viewBox="0 0 108.6 179.7"
@@ -44,9 +44,9 @@
      inkscape:window-height="1018"
      id="namedview4448"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="-972.10956"
-     inkscape:cy="-819.14248"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-498.86623"
+     inkscape:cy="-618.3927"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -105,11 +105,10 @@
      sodipodi:nodetypes="cccccccccssssssscccscssccssssssssscsssssssssscssssscssssccsssccc" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:36.34386063px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="-96.164497"
      y="-114.18822"
-     id="text5326"
-     sodipodi:linespacing="125%"><tspan
+     id="text5326"><tspan
        sodipodi:role="line"
        id="tspan5328"
        x="-96.164497"
@@ -117,23 +116,23 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.88684082px;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">ABYSSUS</tspan><tspan
        sodipodi:role="line"
        x="-96.164497"
-       y="-65.163422"
+       y="-65.571487"
        id="tspan5330"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.61535263px;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">RUBEUS</tspan><tspan
        sodipodi:role="line"
        x="-96.164497"
-       y="-18.977993"
+       y="-19.794125"
        id="tspan5332"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">CARDA</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">CARDA</tspan><tspan
        sodipodi:role="line"
        x="-96.164497"
-       y="26.451832"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       y="25.6357"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="tspan5334">MOM</tspan><tspan
        sodipodi:role="line"
        x="-96.164497"
-       y="71.88166"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       y="71.065529"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="tspan5336">UM</tspan></text>
   <path
      style="fill:#54173a;fill-opacity:1"
@@ -194,11 +193,10 @@
      id="g6736"
      transform="translate(79.4386,-144.08621)">
     <text
-       sodipodi:linespacing="125%"
        id="text5326-6-3"
        y="466.07428"
        x="-191.13374"
-       style="font-style:normal;font-weight:normal;font-size:36.34386063px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bc3b83;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bc3b83;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.88684082px;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bc3b83;fill-opacity:1;stroke:none;stroke-opacity:1"
          y="466.07428"
@@ -207,30 +205,29 @@
          sodipodi:role="line">ABYSSUS</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.61535263px;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bc3b83;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="tspan5330-0-3"
-         y="515.09906"
+         y="514.69098"
          x="-191.13374"
          sodipodi:role="line">RUBEUS</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bc3b83;fill-opacity:1;stroke:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bc3b83;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="tspan5332-4-4"
-         y="561.28448"
+         y="560.46838"
          x="-191.13374"
          sodipodi:role="line">CARDA</tspan><tspan
          id="tspan5334-6-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bc3b83;fill-opacity:1;stroke:none;stroke-opacity:1"
-         y="606.71436"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bc3b83;fill-opacity:1;stroke:none;stroke-opacity:1"
+         y="605.89819"
          x="-191.13374"
          sodipodi:role="line">MOM</tspan><tspan
          id="tspan5336-8-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bc3b83;fill-opacity:1;stroke:none;stroke-opacity:1"
-         y="652.14417"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bc3b83;fill-opacity:1;stroke:none;stroke-opacity:1"
+         y="651.328"
          x="-191.13374"
          sodipodi:role="line">UM</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text5326-6"
        y="465.07428"
        x="-192.13374"
-       style="font-style:normal;font-weight:normal;font-size:36.34386063px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.88684082px;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
          y="465.07428"
@@ -239,22 +236,22 @@
          sodipodi:role="line">ABYSSUS</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.61535263px;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="tspan5330-0"
-         y="514.09906"
+         y="513.69098"
          x="-192.13374"
          sodipodi:role="line">RUBEUS</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="tspan5332-4"
-         y="560.28448"
+         y="559.46838"
          x="-192.13374"
          sodipodi:role="line">CARDA</tspan><tspan
          id="tspan5334-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-         y="605.71436"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         y="604.89819"
          x="-192.13374"
          sodipodi:role="line">MOM</tspan><tspan
          id="tspan5336-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-         y="651.14417"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:125%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         y="650.328"
          x="-192.13374"
          sodipodi:role="line">UM</tspan></text>
   </g>
@@ -294,11 +291,10 @@
        id="g6519-3">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.25216293px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1161.3663"
          y="-1076.7251"
          id="text3336-9-9-1-2-9-5-7-6-2"
-         sodipodi:linespacing="125%"
          inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
          inkscape:export-xdpi="346.14999"
          inkscape:export-ydpi="346.14999"><tspan
@@ -306,14 +302,13 @@
            id="tspan3338-1-1-6-7-6-6-9-1-0"
            x="1161.3663"
            y="-1076.7251"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">YES</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">YES</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1158.8492"
          y="-1052.8525"
          id="text3336-3-2-3-3-2-8-0-2-2-6"
-         sodipodi:linespacing="125%"
          inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
          inkscape:export-xdpi="346.14999"
          inkscape:export-ydpi="346.14999"><tspan
@@ -321,14 +316,13 @@
            id="tspan3338-6-7-4-9-2-57-9-3-9-1"
            x="1158.8492"
            y="-1052.8525"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">BREW</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">BREW</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1158.8492"
          y="-1028.592"
          id="text3336-7-0-5-3-1-5-6-92-3-5"
-         sodipodi:linespacing="125%"
          inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
          inkscape:export-xdpi="346.14999"
          inkscape:export-ydpi="346.14999"><tspan
@@ -336,7 +330,7 @@
            id="tspan3338-5-9-8-3-0-9-2-2-1-5"
            x="1158.8492"
            y="-1028.592"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">NEIN</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">NEIN</tspan></text>
     </g>
   </g>
   <path
@@ -389,11 +383,10 @@
      inkscape:export-ydpi="252.36584" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30.98313522px;line-height:114.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold';text-align:center;letter-spacing:0.77457839px;word-spacing:0px;text-anchor:middle;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold';text-align:center;letter-spacing:0.77457839px;word-spacing:0px;text-anchor:middle;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="309.72299"
      y="426.96838"
      id="text5613-73"
-     sodipodi:linespacing="115%"
      inkscape:export-filename="C:\Users\Max\Pictures\the_juicy_void_front_back.png"
      inkscape:export-xdpi="252.36584"
      inkscape:export-ydpi="252.36584"><tspan
@@ -419,11 +412,10 @@
        id="tspan4253">SAISON</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.87444305px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0.44686109px;word-spacing:0px;text-anchor:start;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0.44686109px;word-spacing:0px;text-anchor:start;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="232.48087"
      y="568.98297"
      id="text5613-7-2-4"
-     sodipodi:linespacing="100%"
      inkscape:export-filename="C:\Users\Max\Pictures\the_juicy_void_front_back.png"
      inkscape:export-xdpi="252.36584"
      inkscape:export-ydpi="252.36584"><tspan
@@ -449,12 +441,12 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.05437565px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#bdbe77;fill-opacity:1">PROMISE, CARAPILS</tspan><tspan
        sodipodi:role="line"
        x="232.48087"
-       y="609.20044"
+       y="609.2005"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.05437565px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#bdbe77;fill-opacity:1"
        id="tspan5692-0">HOPS: EQUINOX (HBC 366)</tspan><tspan
        sodipodi:role="line"
        x="232.48087"
-       y="619.25488"
+       y="619.25482"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.05437565px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#bdbe77;fill-opacity:1"
        id="tspan5700-3">YEAST: LONDON ESB</tspan><tspan
        sodipodi:role="line"
@@ -464,11 +456,10 @@
        id="tspan5301">BOTTLED: 12-APR-2017</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.78325462px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.51958138px;word-spacing:0px;text-anchor:middle;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.51958138px;word-spacing:0px;text-anchor:middle;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="311.5762"
      y="648.3385"
      id="text5613-2-61"
-     sodipodi:linespacing="100%"
      inkscape:export-filename="C:\Users\Max\Pictures\the_juicy_void_front_back.png"
      inkscape:export-xdpi="252.36584"
      inkscape:export-ydpi="252.36584"><tspan
@@ -479,11 +470,10 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.69058037px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1">YESBREWNEIN.GITHUB.IO</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.53159142px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.56328982px;word-spacing:0px;text-anchor:middle;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.56328982px;word-spacing:0px;text-anchor:middle;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="311.48459"
      y="550.17676"
      id="text5613-2-6-3"
-     sodipodi:linespacing="100%"
      inkscape:export-filename="C:\Users\Max\Pictures\the_juicy_void_front_back.png"
      inkscape:export-xdpi="252.36584"
      inkscape:export-ydpi="252.36584"><tspan
@@ -522,13 +512,12 @@
        inkscape:export-ydpi="346.14999"
        inkscape:export-xdpi="346.14999"
        inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
-       sodipodi:linespacing="125%"
        id="text3336-9-9-1-2-9-5-7-6-2-3"
        y="-1076.7251"
        x="1161.3663"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.25216293px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
          y="-1076.7251"
          x="1161.3663"
          id="tspan3338-1-1-6-7-6-6-9-1-0-7"
@@ -537,13 +526,12 @@
        inkscape:export-ydpi="346.14999"
        inkscape:export-xdpi="346.14999"
        inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
-       sodipodi:linespacing="125%"
        id="text3336-3-2-3-3-2-8-0-2-2-6-7"
        y="-1052.8525"
        x="1158.8492"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
          y="-1052.8525"
          x="1158.8492"
          id="tspan3338-6-7-4-9-2-57-9-3-9-1-5"
@@ -552,13 +540,12 @@
        inkscape:export-ydpi="346.14999"
        inkscape:export-xdpi="346.14999"
        inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
-       sodipodi:linespacing="125%"
        id="text3336-7-0-5-3-1-5-6-92-3-5-7"
        y="-1028.592"
        x="1158.8492"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
          y="-1028.592"
          x="1158.8492"
          id="tspan3338-5-9-8-3-0-9-2-2-1-5-7"
@@ -630,11 +617,10 @@
      inkscape:export-ydpi="252.44997" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:36.34386063px;line-height:139.99999762%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="-100.85288"
      y="772.50732"
      id="text5326-6-2-7"
-     sodipodi:linespacing="140%"
      inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
      inkscape:export-xdpi="252.44997"
      inkscape:export-ydpi="252.44997"><tspan
@@ -645,31 +631,30 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.88684082px;line-height:139.99999762%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1">ABYSSUS</tspan><tspan
        sodipodi:role="line"
        x="-100.85288"
-       y="824.58118"
+       y="825.15594"
        id="tspan5330-0-0-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.61535263px;line-height:129.99999523%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1">RUBEUS</tspan><tspan
        sodipodi:role="line"
        x="-100.85288"
-       y="875.28125"
+       y="874.62451"
        id="tspan5332-4-1-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:139.99999762%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1">CARDA</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:139.99999762%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1">CARDA</tspan><tspan
        sodipodi:role="line"
        x="-100.85288"
-       y="920.82825"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1"
+       y="921.87152"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="tspan5334-6-6-0">MOM</tspan><tspan
        sodipodi:role="line"
        x="-100.85288"
-       y="964.4408"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1"
+       y="965.48413"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="tspan5336-8-2-2">UM</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:36.34386063px;line-height:139.99999762%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="-101.61547"
      y="771.68896"
      id="text5326-6-2"
-     sodipodi:linespacing="140%"
      inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
      inkscape:export-xdpi="252.44997"
      inkscape:export-ydpi="252.44997"><tspan
@@ -680,23 +665,23 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.88684082px;line-height:139.99999762%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">ABYSSUS</tspan><tspan
        sodipodi:role="line"
        x="-101.61547"
-       y="823.76282"
+       y="824.33759"
        id="tspan5330-0-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.61535263px;line-height:129.99999523%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">RUBEUS</tspan><tspan
        sodipodi:role="line"
        x="-101.61547"
-       y="874.46289"
+       y="873.80615"
        id="tspan5332-4-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:139.99999762%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">CARDA</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:139.99999762%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">CARDA</tspan><tspan
        sodipodi:role="line"
        x="-101.61547"
-       y="920.00989"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       y="921.05316"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="tspan5334-6-6">MOM</tspan><tspan
        sodipodi:role="line"
        x="-101.61547"
-       y="963.62244"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       y="964.66577"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="tspan5336-8-2">UM</tspan></text>
   <path
      style="fill:#ca3d8f;fill-opacity:1;stroke:#bdbe77;stroke-width:1.07069063;stroke-opacity:1"
@@ -740,11 +725,10 @@
        id="g6519-3-81">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.25216293px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1161.3663"
          y="-1076.7251"
          id="text3336-9-9-1-2-9-5-7-6-2-1"
-         sodipodi:linespacing="125%"
          inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
          inkscape:export-xdpi="346.14999"
          inkscape:export-ydpi="346.14999"><tspan
@@ -752,14 +736,13 @@
            id="tspan3338-1-1-6-7-6-6-9-1-0-1"
            x="1161.3663"
            y="-1076.7251"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">YES</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">YES</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1158.8492"
          y="-1052.8525"
          id="text3336-3-2-3-3-2-8-0-2-2-6-1"
-         sodipodi:linespacing="125%"
          inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
          inkscape:export-xdpi="346.14999"
          inkscape:export-ydpi="346.14999"><tspan
@@ -767,14 +750,13 @@
            id="tspan3338-6-7-4-9-2-57-9-3-9-1-8"
            x="1158.8492"
            y="-1052.8525"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">BREW</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">BREW</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1158.8492"
          y="-1028.592"
          id="text3336-7-0-5-3-1-5-6-92-3-5-74"
-         sodipodi:linespacing="125%"
          inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
          inkscape:export-xdpi="346.14999"
          inkscape:export-ydpi="346.14999"><tspan
@@ -782,7 +764,7 @@
            id="tspan3338-5-9-8-3-0-9-2-2-1-5-2"
            x="1158.8492"
            y="-1028.592"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">NEIN</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">NEIN</tspan></text>
     </g>
   </g>
   <path
@@ -854,11 +836,10 @@
      inkscape:export-ydpi="252.44997" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30.98313522px;line-height:114.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold';text-align:center;letter-spacing:0.77457839px;word-spacing:0px;text-anchor:middle;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold';text-align:center;letter-spacing:0.77457839px;word-spacing:0px;text-anchor:middle;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="318.68134"
      y="880.70471"
      id="text5613-73-5"
-     sodipodi:linespacing="115%"
      inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
      inkscape:export-xdpi="252.44997"
      inkscape:export-ydpi="252.44997"><tspan
@@ -884,11 +865,10 @@
        id="tspan4253-8">SAISON</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.90824127px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0.47270605px;word-spacing:0px;text-anchor:start;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0.47270605px;word-spacing:0px;text-anchor:start;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="241.43921"
      y="1020.722"
      id="text5613-7-2-4-3"
-     sodipodi:linespacing="100%"
      inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
      inkscape:export-xdpi="252.44997"
      inkscape:export-ydpi="252.44997"><tspan
@@ -910,16 +890,16 @@
        id="tspan5273-5"
        sodipodi:role="line"
        x="241.43921"
-       y="1052.6298"
+       y="1052.6296"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.6358881px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#ca3d8f;fill-opacity:1">PILSNER, MUNICH</tspan><tspan
        sodipodi:role="line"
        x="241.43921"
-       y="1063.2656"
+       y="1063.2655"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.6358881px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#ca3d8f;fill-opacity:1"
        id="tspan5692-0-7">HOPS: COLUMBUS</tspan><tspan
        sodipodi:role="line"
        x="241.43921"
-       y="1073.9015"
+       y="1073.9014"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.6358881px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#ca3d8f;fill-opacity:1"
        id="tspan5700-3-2">YEAST: MJ M29</tspan><tspan
        sodipodi:role="line"
@@ -929,11 +909,10 @@
        id="tspan5301-5">BOTTLED: 12-APR-2017</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.78325462px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.51958138px;word-spacing:0px;text-anchor:middle;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.51958138px;word-spacing:0px;text-anchor:middle;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="320.53455"
      y="1102.5748"
      id="text5613-2-61-2"
-     sodipodi:linespacing="100%"
      inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
      inkscape:export-xdpi="252.44997"
      inkscape:export-ydpi="252.44997"><tspan
@@ -944,11 +923,10 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.69058037px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1">YESBREWNEIN.GITHUB.IO</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.52362633px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.56309068px;word-spacing:0px;text-anchor:middle;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.56309068px;word-spacing:0px;text-anchor:middle;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="320.41504"
      y="1004.4137"
      id="text5613-2-6-3-9"
-     sodipodi:linespacing="100%"
      inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
      inkscape:export-xdpi="252.44997"
      inkscape:export-ydpi="252.44997"><tspan
@@ -987,13 +965,12 @@
        inkscape:export-ydpi="346.14999"
        inkscape:export-xdpi="346.14999"
        inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
-       sodipodi:linespacing="125%"
        id="text3336-9-9-1-2-9-5-7-6-2-3-3"
        y="-1076.7251"
        x="1161.3663"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.25216293px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
          y="-1076.7251"
          x="1161.3663"
          id="tspan3338-1-1-6-7-6-6-9-1-0-7-3"
@@ -1002,13 +979,12 @@
        inkscape:export-ydpi="346.14999"
        inkscape:export-xdpi="346.14999"
        inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
-       sodipodi:linespacing="125%"
        id="text3336-3-2-3-3-2-8-0-2-2-6-7-5"
        y="-1052.8525"
        x="1158.8492"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
          y="-1052.8525"
          x="1158.8492"
          id="tspan3338-6-7-4-9-2-57-9-3-9-1-5-3"
@@ -1017,13 +993,12 @@
        inkscape:export-ydpi="346.14999"
        inkscape:export-xdpi="346.14999"
        inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
-       sodipodi:linespacing="125%"
        id="text3336-7-0-5-3-1-5-6-92-3-5-7-2"
        y="-1028.592"
        x="1158.8492"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
          y="-1028.592"
          x="1158.8492"
          id="tspan3338-5-9-8-3-0-9-2-2-1-5-7-5"
@@ -1095,11 +1070,10 @@
      inkscape:export-ydpi="252.45" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:36.34386063px;line-height:139.99999762%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="-930.94745"
      y="781.96948"
      id="text5326-6-2-7-2"
-     sodipodi:linespacing="140%"
      inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
      inkscape:export-xdpi="252.45"
      inkscape:export-ydpi="252.45"><tspan
@@ -1110,31 +1084,30 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.88684082px;line-height:139.99999762%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1">ABYSSUS</tspan><tspan
        sodipodi:role="line"
        x="-930.94745"
-       y="834.04333"
+       y="834.6181"
        id="tspan5330-0-0-1-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.61535263px;line-height:129.99999523%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1">RUBEUS</tspan><tspan
        sodipodi:role="line"
        x="-930.94745"
-       y="884.74341"
+       y="884.08667"
        id="tspan5332-4-1-8-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:139.99999762%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1">CARDA</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:139.99999762%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1">CARDA</tspan><tspan
        sodipodi:role="line"
        x="-930.94745"
-       y="930.29041"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1"
+       y="931.33368"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="tspan5334-6-6-0-5">MOM</tspan><tspan
        sodipodi:role="line"
        x="-930.94745"
-       y="973.90295"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1"
+       y="974.94629"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="tspan5336-8-2-2-5">UM</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:36.34386063px;line-height:139.99999762%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="-931.71002"
      y="781.15112"
      id="text5326-6-2-9"
-     sodipodi:linespacing="140%"
      inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
      inkscape:export-xdpi="252.45"
      inkscape:export-ydpi="252.45"><tspan
@@ -1145,23 +1118,23 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.88684082px;line-height:139.99999762%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">ABYSSUS</tspan><tspan
        sodipodi:role="line"
        x="-931.71002"
-       y="833.22498"
+       y="833.79974"
        id="tspan5330-0-0-7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.61535263px;line-height:129.99999523%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">RUBEUS</tspan><tspan
        sodipodi:role="line"
        x="-931.71002"
-       y="883.92505"
+       y="883.26831"
        id="tspan5332-4-1-85"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:139.99999762%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">CARDA</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:139.99999762%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">CARDA</tspan><tspan
        sodipodi:role="line"
        x="-931.71002"
-       y="929.47205"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       y="930.51532"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="tspan5334-6-6-9">MOM</tspan><tspan
        sodipodi:role="line"
        x="-931.71002"
-       y="973.08459"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       y="974.12793"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="tspan5336-8-2-7">UM</tspan></text>
   <path
      style="fill:#ca3d8f;fill-opacity:1;stroke:#bdbe77;stroke-width:1.07069063;stroke-opacity:1"
@@ -1205,11 +1178,10 @@
        id="g6519-3-81-9">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.25216293px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1161.3663"
          y="-1076.7251"
          id="text3336-9-9-1-2-9-5-7-6-2-1-9"
-         sodipodi:linespacing="125%"
          inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
          inkscape:export-xdpi="346.14999"
          inkscape:export-ydpi="346.14999"><tspan
@@ -1217,14 +1189,13 @@
            id="tspan3338-1-1-6-7-6-6-9-1-0-1-8"
            x="1161.3663"
            y="-1076.7251"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">YES</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">YES</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1158.8492"
          y="-1052.8525"
          id="text3336-3-2-3-3-2-8-0-2-2-6-1-2"
-         sodipodi:linespacing="125%"
          inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
          inkscape:export-xdpi="346.14999"
          inkscape:export-ydpi="346.14999"><tspan
@@ -1232,14 +1203,13 @@
            id="tspan3338-6-7-4-9-2-57-9-3-9-1-8-4"
            x="1158.8492"
            y="-1052.8525"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">BREW</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">BREW</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1158.8492"
          y="-1028.592"
          id="text3336-7-0-5-3-1-5-6-92-3-5-74-5"
-         sodipodi:linespacing="125%"
          inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
          inkscape:export-xdpi="346.14999"
          inkscape:export-ydpi="346.14999"><tspan
@@ -1247,7 +1217,7 @@
            id="tspan3338-5-9-8-3-0-9-2-2-1-5-2-2"
            x="1158.8492"
            y="-1028.592"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">NEIN</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">NEIN</tspan></text>
     </g>
   </g>
   <path
@@ -1319,11 +1289,10 @@
      inkscape:export-ydpi="252.45" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30.98313522px;line-height:114.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold';text-align:center;letter-spacing:0.77457839px;word-spacing:0px;text-anchor:middle;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold';text-align:center;letter-spacing:0.77457839px;word-spacing:0px;text-anchor:middle;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="-511.41324"
      y="890.16687"
      id="text5613-73-5-4"
-     sodipodi:linespacing="115%"
      inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
      inkscape:export-xdpi="252.45"
      inkscape:export-ydpi="252.45"><tspan
@@ -1349,11 +1318,10 @@
        id="tspan4253-8-2">SAISON</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.90824127px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0.47270605px;word-spacing:0px;text-anchor:start;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0.47270605px;word-spacing:0px;text-anchor:start;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="-588.6554"
      y="1030.1842"
      id="text5613-7-2-4-3-1"
-     sodipodi:linespacing="100%"
      inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
      inkscape:export-xdpi="252.45"
      inkscape:export-ydpi="252.45"><tspan
@@ -1394,26 +1362,24 @@
        id="tspan5301-5-2">BOTTLED: 12-APR-2017</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.78325462px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.51958138px;word-spacing:0px;text-anchor:middle;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.51958138px;word-spacing:0px;text-anchor:middle;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="-509.56003"
      y="1112.037"
      id="text5613-2-61-2-2"
-     sodipodi:linespacing="100%"
      inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
      inkscape:export-xdpi="252.45"
      inkscape:export-ydpi="252.45"><tspan
        sodipodi:role="line"
-       x="-509.30026"
+       x="-509.30023"
        y="1112.037"
        id="tspan5621-3-06-9-5"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.69058037px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1">YESBREWNEIN.GITHUB.IO</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.52362633px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.56309068px;word-spacing:0px;text-anchor:middle;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.56309068px;word-spacing:0px;text-anchor:middle;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="-509.67953"
      y="1013.8759"
      id="text5613-2-6-3-9-0"
-     sodipodi:linespacing="100%"
      inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
      inkscape:export-xdpi="252.45"
      inkscape:export-ydpi="252.45"><tspan
@@ -1452,13 +1418,12 @@
        inkscape:export-ydpi="346.14999"
        inkscape:export-xdpi="346.14999"
        inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
-       sodipodi:linespacing="125%"
        id="text3336-9-9-1-2-9-5-7-6-2-3-3-2"
        y="-1076.7251"
        x="1161.3663"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.25216293px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
          y="-1076.7251"
          x="1161.3663"
          id="tspan3338-1-1-6-7-6-6-9-1-0-7-3-4"
@@ -1467,13 +1432,12 @@
        inkscape:export-ydpi="346.14999"
        inkscape:export-xdpi="346.14999"
        inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
-       sodipodi:linespacing="125%"
        id="text3336-3-2-3-3-2-8-0-2-2-6-7-5-7"
        y="-1052.8525"
        x="1158.8492"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
          y="-1052.8525"
          x="1158.8492"
          id="tspan3338-6-7-4-9-2-57-9-3-9-1-5-3-6"
@@ -1482,13 +1446,12 @@
        inkscape:export-ydpi="346.14999"
        inkscape:export-xdpi="346.14999"
        inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
-       sodipodi:linespacing="125%"
        id="text3336-7-0-5-3-1-5-6-92-3-5-7-2-6"
        y="-1028.592"
        x="1158.8492"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ca3d8f;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
          y="-1028.592"
          x="1158.8492"
          id="tspan3338-5-9-8-3-0-9-2-2-1-5-7-5-1"
@@ -1577,11 +1540,10 @@
        inkscape:export-ydpi="252.45"
        inkscape:export-xdpi="252.45"
        inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
-       sodipodi:linespacing="140%"
        id="text5326-6-2-7-2-5"
        y="869.50732"
        x="-1399.8529"
-       style="font-style:normal;font-weight:normal;font-size:36.34386063px;line-height:139.99999762%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.88684082px;line-height:139.99999762%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1"
          y="869.50732"
@@ -1590,33 +1552,32 @@
          sodipodi:role="line">ABYSSUS</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.61535263px;line-height:129.99999523%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="tspan5330-0-0-1-4-3"
-         y="921.58118"
+         y="922.15594"
          x="-1399.8529"
          sodipodi:role="line">RUBEUS</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:139.99999762%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:139.99999762%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="tspan5332-4-1-8-6-1"
-         y="972.28125"
+         y="971.62451"
          x="-1399.8529"
          sodipodi:role="line">CARDA</tspan><tspan
          id="tspan5334-6-6-0-5-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1"
-         y="1017.8282"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1"
+         y="1018.8715"
          x="-1399.8529"
          sodipodi:role="line">MOM</tspan><tspan
          id="tspan5336-8-2-2-5-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1"
-         y="1061.4408"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-opacity:1"
+         y="1062.4841"
          x="-1399.8529"
          sodipodi:role="line">UM</tspan></text>
     <text
        inkscape:export-ydpi="252.45"
        inkscape:export-xdpi="252.45"
        inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
-       sodipodi:linespacing="140%"
        id="text5326-6-2-9-4"
        y="868.68896"
        x="-1400.6155"
-       style="font-style:normal;font-weight:normal;font-size:36.34386063px;line-height:139.99999762%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.88684082px;line-height:139.99999762%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
          y="868.68896"
@@ -1625,22 +1586,22 @@
          sodipodi:role="line">ABYSSUS</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.61535263px;line-height:129.99999523%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="tspan5330-0-0-7-4"
-         y="920.76282"
+         y="921.33759"
          x="-1400.6155"
          sodipodi:role="line">RUBEUS</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:139.99999762%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:139.99999762%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
          id="tspan5332-4-1-85-6"
-         y="971.46289"
+         y="970.80615"
          x="-1400.6155"
          sodipodi:role="line">CARDA</tspan><tspan
          id="tspan5334-6-6-9-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-         y="1017.0098"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         y="1018.0532"
          x="-1400.6155"
          sodipodi:role="line">MOM</tspan><tspan
          id="tspan5336-8-2-7-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-         y="1060.6224"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.34386063px;line-height:120.00000477%;font-family:'Latin Modern Roman Dunhill';-inkscape-font-specification:'Latin Modern Roman Dunhill';fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         y="1061.6658"
          x="-1400.6155"
          sodipodi:role="line">UM</tspan></text>
     <path
@@ -1687,13 +1648,12 @@
            inkscape:export-ydpi="346.14999"
            inkscape:export-xdpi="346.14999"
            inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
-           sodipodi:linespacing="125%"
            id="text3336-9-9-1-2-9-5-7-6-2-1-9-3"
            y="-1076.7251"
            x="1161.3663"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:27.25216293px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
              y="-1076.7251"
              x="1161.3663"
              id="tspan3338-1-1-6-7-6-6-9-1-0-1-8-7"
@@ -1702,13 +1662,12 @@
            inkscape:export-ydpi="346.14999"
            inkscape:export-xdpi="346.14999"
            inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
-           sodipodi:linespacing="125%"
            id="text3336-3-2-3-3-2-8-0-2-2-6-1-2-0"
            y="-1052.8525"
            x="1158.8492"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
              y="-1052.8525"
              x="1158.8492"
              id="tspan3338-6-7-4-9-2-57-9-3-9-1-8-4-2"
@@ -1717,13 +1676,12 @@
            inkscape:export-ydpi="346.14999"
            inkscape:export-xdpi="346.14999"
            inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
-           sodipodi:linespacing="125%"
            id="text3336-7-0-5-3-1-5-6-92-3-5-74-5-0"
            y="-1028.592"
            x="1158.8492"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.01641655px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
              y="-1028.592"
              x="1158.8492"
              id="tspan3338-5-9-8-3-0-9-2-2-1-5-2-2-8"

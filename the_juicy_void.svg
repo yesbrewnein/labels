@@ -14,7 +14,7 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="the_juicy_void.svg">
   <defs
      id="defs4" />
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="42.72083"
-     inkscape:cy="151.02318"
+     inkscape:zoom="2"
+     inkscape:cx="237.58344"
+     inkscape:cy="393.44458"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="986"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      showguides="false" />
   <metadata
@@ -1157,5 +1157,15 @@
            id="tspan3338-5-9-8-3-0-9-2-2-1-5-1"
            sodipodi:role="line">NEIN</tspan></text>
     </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0.56693012;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2223"
+       width="60.99593"
+       height="60.995926"
+       x="314.88632"
+       y="640.08435"
+       inkscape:export-filename="/home/max/yesbrewnein/react_website/src/images/the_juicy_void_preview.png"
+       inkscape:export-xdpi="531.17999"
+       inkscape:export-ydpi="531.17999" />
   </g>
 </svg>

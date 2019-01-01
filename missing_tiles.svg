@@ -14,7 +14,7 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg4734"
    version="1.1"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="missing_tiles.svg">
   <defs
      id="defs4736" />
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="1526.3182"
-     inkscape:cy="599.6271"
+     inkscape:zoom="0.69999999"
+     inkscape:cx="326.9333"
+     inkscape:cy="724.27483"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1713,5 +1713,25 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#1b6b00;fill-opacity:1;stroke:none;stroke-width:2.3630743;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">NEIN</tspan></text>
       </g>
     </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:0.80365229;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1759"
+       width="49.132229"
+       height="49.132229"
+       x="142.55917"
+       y="251.22528"
+       inkscape:export-filename="/home/max/yesbrewnein/react_website/src/images/missing_tiles_preview.png"
+       inkscape:export-xdpi="659.45001"
+       inkscape:export-ydpi="659.45001" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.07843137;stroke:none;stroke-width:6.72270727;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1701"
+       width="470.08929"
+       height="470.08929"
+       x="105.21162"
+       y="160.32637"
+       inkscape:export-filename="/home/max/yesbrewnein/react_website/src/images/missing_tiles_preview.png"
+       inkscape:export-xdpi="68.919998"
+       inkscape:export-ydpi="68.919998" />
   </g>
 </svg>

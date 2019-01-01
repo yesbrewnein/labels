@@ -603,7 +603,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497476"
      inkscape:cx="4582.5354"
-     inkscape:cy="-2675.0769"
+     inkscape:cy="-2755.8891"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3421,5 +3421,15 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#dcaa1c;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">NEIN</tspan></text>
       </g>
     </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.07843138;stroke:none;stroke-width:3.1330812;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2223"
+       width="337.08774"
+       height="337.08771"
+       x="3428.7615"
+       y="3049.2441"
+       inkscape:export-filename="/home/max/yesbrewnein/react_website/src/images/caution_weka_preview.png"
+       inkscape:export-xdpi="96.120003"
+       inkscape:export-ydpi="96.120003" />
   </g>
 </svg>

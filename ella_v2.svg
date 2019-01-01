@@ -14,7 +14,7 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg8544"
    version="1.1"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="ella_v2.svg">
   <defs
      id="defs8546" />
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-1956.7302"
-     inkscape:cy="-1283.9861"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-2424.0651"
+     inkscape:cy="-153.01464"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -9362,9 +9362,9 @@
        height="800.00018"
        x="-2488.2451"
        y="924.9491"
-       inkscape:export-filename="/home/max/Pictures/ella_front_back.png"
-       inkscape:export-xdpi="126.22498"
-       inkscape:export-ydpi="126.22498" />
+       inkscape:export-filename="/home/max/yesbrewnein/react_website/src/images/ella.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
     <flowRoot
        transform="translate(-73.618739,925.24344)"
        xml:space="preserve"
@@ -12973,9 +12973,9 @@
     <g
        id="g12735"
        transform="translate(12.652637)"
-       inkscape:export-filename="/home/max/Pictures/ella_front_back.png"
-       inkscape:export-xdpi="126.22498"
-       inkscape:export-ydpi="126.22498">
+       inkscape:export-filename="/home/max/yesbrewnein/react_website/src/images/ella.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54">
       <text
          inkscape:export-ydpi="126.22498"
          inkscape:export-xdpi="126.22498"
@@ -13013,9 +13013,9 @@
     <g
        id="g7462"
        transform="matrix(1.2005312,0,0,1.2005312,-4172.7944,239.84849)"
-       inkscape:export-filename="/home/max/Pictures/ella_front_back.png"
-       inkscape:export-xdpi="126.22498"
-       inkscape:export-ydpi="126.22498">
+       inkscape:export-filename="/home/max/yesbrewnein/react_website/src/images/ella.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54">
       <circle
          inkscape:export-ydpi="126.22499"
          inkscape:export-xdpi="126.22499"
@@ -17843,5 +17843,15 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#e385ce;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">NEIN</tspan></text>
       </g>
     </g>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.07843137;stroke:none;stroke-width:1.59945643;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1701"
+       width="111.84293"
+       height="111.84293"
+       x="-2295.353"
+       y="1133.5662"
+       inkscape:export-filename="/home/max/yesbrewnein/react_website/src/images/ella_preview.png"
+       inkscape:export-xdpi="289.69196"
+       inkscape:export-ydpi="289.69196" />
   </g>
 </svg>

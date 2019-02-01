@@ -95,9 +95,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49999998"
-     inkscape:cx="1826.2106"
-     inkscape:cy="-804.67328"
+     inkscape:zoom="1.2614926"
+     inkscape:cx="2430.5918"
+     inkscape:cy="-501.01878"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4590,21 +4590,21 @@
        inkscape:export-xdpi="346.14999"
        inkscape:export-ydpi="346.14999" />
     <g
-       id="g3933-7"
-       transform="translate(501.60341,49.892685)">
+       id="g2257"
+       transform="translate(-3.6268207e-5,-4.8970027e-5)">
       <text
          transform="scale(0.90933238,1.0997079)"
          inkscape:export-ydpi="346.14999"
          inkscape:export-xdpi="346.14999"
          inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
          id="text3336-9-9-1-5-4-8"
-         y="1482.1957"
-         x="1629.3817"
+         y="1527.5647"
+         x="2180.999"
          style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:38.14109039px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light Italic';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
-           y="1482.1957"
-           x="1629.3817"
+           y="1527.5647"
+           x="2180.999"
            id="tspan3338-1-1-6-0-4-0"
            sodipodi:role="line">YES</tspan></text>
       <text
@@ -4613,34 +4613,32 @@
          inkscape:export-xdpi="346.14999"
          inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
          id="text3336-3-2-3-3-3-60-8"
-         y="1482.1864"
-         x="1685.9136"
+         y="1527.5554"
+         x="2239.5923"
          style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.65485722;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:38.14109039px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.63999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           y="1482.1864"
-           x="1685.9136"
+           y="1527.5554"
+           x="2239.5923"
            id="tspan3338-6-7-4-9-1-5-9"
-           sodipodi:role="line"><tspan
-             id="tspan3902-7"
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic'">BR</tspan><tspan
-             id="tspan6153-5-8"
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:-1.17669666px">E</tspan><tspan
-             id="tspan6146-3-3"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke:none;stroke-width:0.63999999;stroke-miterlimit:4;stroke-dasharray:none">W</tspan></tspan></text>
+           sodipodi:role="line">BR<tspan
+   id="tspan6153-5-8"
+   style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:-1.17669666px">E</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"
+   id="tspan2239">W</tspan></tspan></text>
       <text
          transform="scale(0.90933238,1.0997079)"
          inkscape:export-ydpi="346.14999"
          inkscape:export-xdpi="346.14999"
          inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
          id="text3336-7-0-5-3-0-9-9"
-         y="1482.1864"
-         x="1787.7271"
+         y="1527.5554"
+         x="2339.3442"
          style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:38.14109039px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light Italic';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
-           y="1482.1864"
-           x="1787.7271"
+           y="1527.5554"
+           x="2339.3442"
            id="tspan3338-5-9-8-3-1-1-7"
            sodipodi:role="line">NEIN</tspan></text>
     </g>
@@ -4713,55 +4711,443 @@
        height="314.685"
        x="2229.9143"
        y="2125.9573" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.43100262px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2107.4373"
+       y="2431.3325"
+       id="text3336-3-3-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan3338-6-5-0-0"
+         x="2107.4373"
+         y="2431.3325"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.84793091px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:-1.97184801px;fill:#000000;stroke-width:0.95258349px"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:-1.97184801px;fill:#000000;stroke-width:0.95258349px"
+   id="tspan3394-1-8">E</tspan>W</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.19461441;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3980-2-3"
+       width="396.42188"
+       height="396.42188"
+       x="2419.2893"
+       y="1518.2828" />
     <g
-       id="g3882-6"
-       transform="translate(676.96235,231.32797)">
+       id="g2237"
+       transform="translate(4.02477,-38.993464)">
       <text
-         id="text3336-5-6"
-         y="2048.4568"
-         x="1657.6005"
+         transform="scale(0.90933238,1.0997079)"
+         inkscape:export-ydpi="346.14999"
+         inkscape:export-xdpi="346.14999"
+         inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
+         id="text3336-9-9-1-5-4-8-5-7"
+         y="1615.1373"
+         x="2711.0659"
+         style="font-style:normal;font-weight:normal;font-size:16.57409286px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.24852645px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:52.67949677px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light Italic';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.24852645px;stroke-opacity:1"
+           y="1615.1373"
+           x="2711.0659"
+           id="tspan3338-1-1-6-0-4-0-0-5"
+           sodipodi:role="line">YES</tspan></text>
+      <text
+         transform="scale(0.90933238,1.0997079)"
+         inkscape:export-ydpi="346.14999"
+         inkscape:export-xdpi="346.14999"
+         inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
+         id="text3336-3-2-3-3-3-60-8-2-3"
+         y="1615.1245"
+         x="2789.1465"
+         style="font-style:normal;font-weight:normal;font-size:16.57409286px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.90447205;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.67949677px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.8839516;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="1615.1245"
+           x="2789.1465"
+           id="tspan3338-6-7-4-9-1-5-9-4-5"
+           sodipodi:role="line">BR<tspan
+   id="tspan6153-5-8-0-2"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';letter-spacing:-1.62522328px;stroke-width:0.8839516">E</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';stroke-width:0.8839516"
+   id="tspan2208">W</tspan></tspan></text>
+      <text
+         transform="scale(0.90933238,1.0997079)"
+         inkscape:export-ydpi="346.14999"
+         inkscape:export-xdpi="346.14999"
+         inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
+         id="text3336-7-0-5-3-0-9-9-2-1"
+         y="1615.1245"
+         x="2920.9165"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.57409286px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.24852645px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:52.67949677px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light Italic';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.24852645px;stroke-opacity:1"
+           y="1615.1245"
+           x="2920.9165"
+           id="tspan3338-5-9-8-3-1-1-7-6-2"
+           sodipodi:role="line">NEIN</tspan></text>
+    </g>
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path3398-5-7"
+       cx="1840.3126"
+       cy="2372.3623"
+       r="130" />
+    <g
+       id="g1729"
+       transform="translate(-26.822325,9.3751176)">
+      <text
+         id="text3336-5-9"
+         y="2368.8472"
+         x="1746.7501"
          style="font-style:normal;font-weight:normal;font-size:11.43100262px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:55.84793091px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light Italic';fill:#ffffff;stroke-width:0.95258349px"
-           y="2048.4568"
-           x="1657.6005"
-           id="tspan3338-8-3"
+           y="2368.8472"
+           x="1746.7501"
+           id="tspan3338-8-36"
            sodipodi:role="line">YES</tspan></text>
       <text
-         id="text3336-3-28-4"
-         y="2048.4568"
-         x="1742.0394"
+         id="text3336-3-28-0"
+         y="2368.8472"
+         x="1831.1891"
          style="font-style:normal;font-weight:normal;font-size:11.43100262px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.84793091px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';fill:#ffffff;stroke-width:0.95258349px"
-           y="2048.4568"
-           x="1742.0394"
-           id="tspan3338-6-6-1"
-           sodipodi:role="line">BR</tspan></text>
+           y="2368.8472"
+           x="1831.1891"
+           id="tspan3338-6-6-6"
+           sodipodi:role="line">BR<tspan
+   style="letter-spacing:-1.96875px"
+   id="tspan1708">E</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
+   id="tspan1706">W</tspan></tspan></text>
       <text
-         id="text3336-7-8-7"
-         y="2095.9275"
-         x="1730.4709"
+         id="text3336-7-8-2"
+         y="2416.3179"
+         x="1819.6206"
          style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.43100262px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:55.84793091px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light Italic';fill:#ffffff;stroke-width:0.95258349px"
-           y="2095.9275"
-           x="1730.4709"
-           id="tspan3338-5-53-1"
+           y="2416.3179"
+           x="1819.6206"
+           id="tspan3338-5-53-6"
            sodipodi:role="line">NEIN</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.43100262px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1842.0129"
+       y="2460.3804"
+       id="text3336-3-3-4-1"><tspan
+         sodipodi:role="line"
+         id="tspan3338-6-5-0-8"
+         x="1842.0129"
+         y="2460.3804"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.84793091px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:-1.97184801px;fill:#ffffff;stroke-width:0.95258349px"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:-1.97184801px;fill:#ffffff;stroke-width:0.95258349px"
+   id="tspan3394-1-7">E</tspan>W</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.43100262px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2383.6624"
+       y="2256.3472"
+       id="text3336-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan3338-8-0"
+         x="2383.6624"
+         y="2256.3472"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:55.84793091px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light Italic';fill:#ffffff;stroke-width:0.95258349px">YES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.43100262px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2351.8687"
+       y="2314.4722"
+       id="text3336-3-28-2"><tspan
+         sodipodi:role="line"
+         id="tspan3338-6-6-3"
+         x="2351.8687"
+         y="2314.4722"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.84793091px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';fill:#ffffff;stroke-width:0.95258349px">BR<tspan
+   style="letter-spacing:-1.96875px"
+   id="tspan1784">E</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
+   id="tspan1782">W</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.43100262px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2367.8049"
+       y="2371.3179"
+       id="text3336-7-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan3338-5-53-5"
+         x="2367.8049"
+         y="2371.3179"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:55.84793091px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light Italic';fill:#ffffff;stroke-width:0.95258349px">NEIN</tspan></text>
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path3398-6-6-2-8-8-7-8"
+       cx="2427.1875"
+       cy="2687.3623"
+       r="130"
+       inkscape:export-filename="/home/max/yesbrewnein_logo_new5.png"
+       inkscape:export-xdpi="346.14999"
+       inkscape:export-ydpi="346.14999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.43100262px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2382.7246"
+       y="2650.0972"
+       id="text3336-5-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan3338-8-0-7"
+         x="2382.7246"
+         y="2650.0972"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:55.84793472px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light Italic';fill:#ffffff;stroke-width:0.95258349px">YES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.43100262px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2354.6807"
+       y="2708.2222"
+       id="text3336-3-28-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan3338-6-6-3-6"
+         x="2354.6807"
+         y="2708.2222"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.84793472px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#ffffff;stroke-width:0.95258349px">BR<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';letter-spacing:-1.96875012px;stroke-width:0.95258349px"
+   id="tspan1784-1">E</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+   id="tspan2227">W</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.43100262px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2366.8674"
+       y="2765.3994"
+       id="text3336-7-8-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan3338-5-53-5-3"
+         x="2366.8674"
+         y="2765.3994"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:55.84793472px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light Italic';fill:#ffffff;stroke-width:0.95258349px">NEIN</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.2664876;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3980-2-9"
+       width="281.25"
+       height="281.25"
+       x="2787.3318"
+       y="2645.5552" />
+    <g
+       id="g1993"
+       transform="translate(0,1.1894386e-4)">
       <text
-         id="text3336-3-3-4-3"
-         y="2095.9275"
-         x="1652.5507"
+         id="text3336-5-2-9-7"
+         y="2748.7493"
+         x="2882.594"
          style="font-style:normal;font-weight:normal;font-size:11.43100262px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.84793091px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:-1.97184801px;fill:#ffffff;stroke-width:0.95258349px"
-           y="2095.9275"
-           x="1652.5507"
-           id="tspan3338-6-5-0-0"
-           sodipodi:role="line"><tspan
-   id="tspan3394-1-8"
-   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:-1.97184801px;fill:#ffffff;stroke-width:0.95258349px">E</tspan>W</tspan></text>
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.84793472px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#ffffff;stroke-width:0.95258349px"
+           y="2748.7493"
+           x="2882.594"
+           id="tspan3338-8-0-7-8"
+           sodipodi:role="line">YES</tspan></text>
+      <text
+         id="text3336-3-28-2-3-4"
+         y="2806.8743"
+         x="2855.45"
+         style="font-style:normal;font-weight:normal;font-size:11.43100262px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.84793472px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#ffffff;stroke-width:0.95258349px"
+           y="2806.8743"
+           x="2855.45"
+           id="tspan3338-6-6-3-6-5"
+           sodipodi:role="line">BR<tspan
+   id="tspan1784-1-3"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';letter-spacing:-1.96875012px;stroke-width:0.95258349px">E</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+   id="tspan1975">W</tspan></tspan></text>
+      <text
+         id="text3336-7-8-7-9-1"
+         y="2864.0515"
+         x="2865.5095"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.43100262px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.84793472px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#ffffff;stroke-width:0.95258349px"
+           y="2864.0515"
+           x="2865.5095"
+           id="tspan3338-5-53-5-3-0"
+           sodipodi:role="line">NEIN</tspan></text>
     </g>
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#fdfdfd;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path3398-6-6-2-8-8-7-8-6"
+       cx="2428.125"
+       cy="3002.3623"
+       r="130"
+       inkscape:export-filename="/home/max/yesbrewnein_logo_new5.png"
+       inkscape:export-xdpi="346.14999"
+       inkscape:export-ydpi="346.14999" />
+    <g
+       id="g2206">
+      <text
+         id="text3336-5-2-9-2"
+         y="2965.0972"
+         x="2379.5308"
+         style="font-style:normal;font-weight:normal;font-size:11.43100262px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.84793472px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';fill:#ffffff;stroke-width:0.95258349px"
+           y="2965.0972"
+           x="2379.5308"
+           id="tspan3338-8-0-7-0"
+           sodipodi:role="line">YES</tspan></text>
+      <text
+         id="text3336-3-28-2-3-6"
+         y="3023.2222"
+         x="2351.8684"
+         style="font-style:normal;font-weight:normal;font-size:11.43100262px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.84793472px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';fill:#ffffff;stroke-width:0.95258349px"
+           y="3023.2222"
+           x="2351.8684"
+           id="tspan3338-6-6-3-6-1"
+           sodipodi:role="line">BR<tspan
+   id="tspan1784-1-5"
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:-1.96875012px;stroke-width:0.95258349px">E</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
+   id="tspan2040">W</tspan></tspan></text>
+      <text
+         id="text3336-7-8-7-9-7"
+         y="3080.3994"
+         x="2360.9194"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.43100262px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.84793472px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';fill:#ffffff;stroke-width:0.95258349px"
+           y="3080.3994"
+           x="2360.9194"
+           id="tspan3338-5-53-5-3-6"
+           sodipodi:role="line">NEIN</tspan></text>
+    </g>
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path3398-6-6-2-8-8-7-8-5"
+       cx="2025.8611"
+       cy="2679.1499"
+       r="130"
+       inkscape:export-filename="/home/max/yesbrewnein_logo_new5.png"
+       inkscape:export-xdpi="346.14999"
+       inkscape:export-ydpi="346.14999" />
+    <g
+       id="g2196">
+      <text
+         id="text3336-5-2-6"
+         y="2643.7598"
+         x="1980.4983"
+         style="font-style:normal;font-weight:normal;font-size:11.43100262px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.84793472px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#ffffff;stroke-width:0.95258349px"
+           y="2643.7598"
+           x="1980.4983"
+           id="tspan3338-8-0-9"
+           sodipodi:role="line">YES</tspan></text>
+      <text
+         id="text3336-3-28-2-37"
+         y="2701.8848"
+         x="1949.6046"
+         style="font-style:normal;font-weight:normal;font-size:11.43100262px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.84793472px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';fill:#ffffff;stroke-width:0.95258349px"
+           y="2701.8848"
+           x="1949.6046"
+           id="tspan3338-6-6-3-4"
+           sodipodi:role="line">BR<tspan
+   id="tspan1784-5"
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold Italic';letter-spacing:-1.96875012px;stroke-width:0.95258349px">E</tspan><tspan
+   id="tspan2165"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'">W</tspan></tspan></text>
+      <text
+         id="text3336-7-8-7-4"
+         y="2758.7305"
+         x="1963.4139"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.43100262px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95258349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.84793472px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#ffffff;stroke-width:0.95258349px"
+           y="2758.7305"
+           x="1963.4139"
+           id="tspan3338-5-53-5-7"
+           sodipodi:role="line">NEIN</tspan></text>
+    </g>
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path3398-6-6-2-8-8-7-3"
+       cx="2268.75"
+       cy="1318.6122"
+       r="130"
+       inkscape:export-filename="/home/max/yesbrewnein_logo_new5.png"
+       inkscape:export-xdpi="346.14999"
+       inkscape:export-ydpi="346.14999" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.59382308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2264.9499,1211.9843 v 3.3462 l 0.5782,0.303 0.1241,4.1862 c 0.4257,1.0482 1.1017,1.7137 1.9689,2.3686 v 0.6195 l -6.3065,7.6564 0.027,2.3823 c -1.2828,0.5127 -2.3138,1.3031 -2.6163,2.1069 v 10.8649 c 0.3116,1.0891 0.9321,2.0526 2.093,2.6713 0.8831,3.3189 2.5751,5.355 6.059,5.4531 3.4837,0.098 5.7934,-2.2965 6.2104,-5.1501 1.8471,-1.0478 1.8828,-1.7763 2.0767,-2.754 v -10.5619 c -0.4083,-1.6236 -1.1999,-1.908 -2.1731,-2.4511 v -0.7024 c 1.1565,-1.0965 1.9868,-0.663 2.8782,0.358 v 15.6812 c 0,0 -5.7712,7.1899 -8.5791,10.6203 l -0.1238,5.6183 h -5.9766 l -0.3292,0.5677 0.7838,2.6823 c -1.117,0.3241 -2.0055,1.316 -2.0107,1.7212 -0.011,0.4711 -0.03,2.561 0.028,2.9744 0.059,0.4134 0.3494,1.2281 1.253,1.8453 v 1.6111 c -0.951,0.6159 -0.9951,0.9886 -1.1154,1.377 l 0.041,2.5751 0.3442,0.895 c -1.6072,8.0675 -5.2583,13.1155 -14.1145,15.4367 -8.8566,2.3212 -17.2164,12.4539 -18.3837,18.1769 -1.167,5.723 0.4894,90.836 0.5923,94.1759 0.1022,3.3399 5.3653,13.4854 18.232,15.4503 12.4976,1.9086 21.6198,1.7456 22.1427,1.7352 0.015,-3e-4 0.1929,0 0.1929,0 0.5231,0.011 9.6453,0.1734 22.1428,-1.7352 12.8667,-1.9649 18.1292,-12.1104 18.2319,-15.4503 0.1033,-3.3399 1.7593,-88.4529 0.5922,-94.1759 -1.167,-5.723 -9.5409,-15.8557 -18.3971,-18.1769 -8.8565,-2.3212 -12.5074,-7.3692 -14.1149,-15.4367 l 0.3443,-0.895 0.041,-2.5751 c -0.1204,-0.3884 -0.1505,-0.7611 -1.1017,-1.377 l -0.014,-1.6111 c 0.9035,-0.6172 1.2081,-1.4319 1.2668,-1.8453 0.058,-0.4134 0.033,-2.5033 0.027,-2.9744 -0.011,-0.3793 -0.7761,-1.2725 -1.7901,-1.6524 l 0.7217,-2.7096 -0.3911,-0.5954 -5.7425,-0.041 0.027,-4.2412 8.4551,-11.1402 -0.014,-16.8412 c -0.2959,-0.7745 -1.4672,-3.2557 -4.5602,-3.4438 -3.0933,-0.188 -4.1699,1.8343 -4.4044,2.1769 v 1.9002 c -1.1494,0.3162 -2.343,1.0249 -2.7129,2.3135 l -0.041,10.8924 c 0.411,1.6639 1.2423,1.8906 1.9552,2.4787 -0.6813,1.7494 -1.2039,1.9839 -2.327,2.0655 -1.1232,0.083 -2.2107,-0.7841 -2.4098,-2.3134 1.6724,-0.8371 1.8466,-1.3938 2.1618,-2.2308 l 0.041,-11.0577 c -0.3723,-0.8377 -0.8666,-1.5507 -2.2034,-2.0932 v -1.253 l 6.5548,-8.3448 v -1.1843 c 1.0981,-0.4831 1.7395,-1.3501 2.0656,-2.2033 v -3.9245 l 0.6747,-0.5921 v -3.4702 c -3.5645,-0.7723 -5.3341,-0.9896 -8.9783,-0.082 z"
+       id="path2998-82-9-8-1-5-7-1-7-6-61-6-4-5-63-6-6-1-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccscccccccccccccccccccsccsccsccscccccccccccccczcccccscccccccccccc"
+       inkscape:export-xdpi="346.14999"
+       inkscape:export-ydpi="346.14999"
+       inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2464.5964"
+       y="1216.0897"
+       id="text3336-9-9-1-5-4-8-7"
+       inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
+       inkscape:export-xdpi="346.14999"
+       inkscape:export-ydpi="346.14999"
+       transform="scale(0.90933238,1.0997079)"><tspan
+         sodipodi:role="line"
+         id="tspan3338-1-1-6-0-4-0-8"
+         x="2464.5964"
+         y="1216.0897"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:38.14109039px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light Italic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">YES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.65485722;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="2444.103"
+       y="1251.2351"
+       id="text3336-3-2-3-3-3-60-8-6"
+       inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
+       inkscape:export-xdpi="346.14999"
+       inkscape:export-ydpi="346.14999"
+       transform="scale(0.90933238,1.0997079)"><tspan
+         sodipodi:role="line"
+         id="tspan3338-6-7-4-9-1-5-9-8"
+         x="2444.103"
+         y="1251.2351"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:38.14109039px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.63999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">BR<tspan
+   style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:-1.17669666px;fill:#000000"
+   id="tspan6153-5-8-8">E</tspan><tspan
+   id="tspan2239-4"
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#000000">W</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2453.7668"
+       y="1287.0741"
+       id="text3336-7-0-5-3-0-9-9-3"
+       inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png"
+       inkscape:export-xdpi="346.14999"
+       inkscape:export-ydpi="346.14999"
+       transform="scale(0.90933238,1.0997079)"><tspan
+         sodipodi:role="line"
+         id="tspan3338-5-9-8-3-1-1-7-1"
+         x="2453.7668"
+         y="1287.0741"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:38.14109039px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light Italic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">NEIN</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.72110325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2242.9722,1638.0416 v 1.5139 l 0.2616,0.1371 0.056,1.894 c 0.1926,0.4742 0.4985,0.7753 0.8908,1.0716 v 0.2803 l -2.8533,3.464 0.012,1.0779 c -0.5804,0.232 -1.0469,0.5896 -1.1838,0.9532 v 4.9157 c 0.141,0.4927 0.4218,0.9287 0.947,1.2086 0.3995,1.5016 1.1651,2.4228 2.7413,2.4672 1.5762,0.044 2.6212,-1.039 2.8098,-2.3301 0.8357,-0.4741 0.8519,-0.8037 0.9396,-1.246 v -4.7786 c -0.1847,-0.7346 -0.5429,-0.8633 -0.9832,-1.109 v -0.3178 c 0.5232,-0.4961 0.8989,-0.2999 1.3022,0.162 v 7.0947 c 0,0 -2.6111,3.253 -3.8815,4.805 l -0.056,2.542 h -2.704 l -0.149,0.2568 0.3546,1.2136 c -0.5053,0.1466 -0.9073,0.5954 -0.9097,0.7787 0,0.2132 -0.014,1.1587 0.013,1.3457 0.027,0.1871 0.1581,0.5557 0.5669,0.8349 v 0.7289 c -0.4303,0.2787 -0.4502,0.4473 -0.5046,0.6231 l 0.019,1.165 0.1557,0.405 c -0.7271,3.65 -2.379,5.9339 -6.3859,6.9841 -4.007,1.0502 -7.7893,5.6346 -8.3174,8.2239 -0.528,2.5893 0.2214,41.0975 0.2679,42.6085 0.046,1.5111 2.4275,6.1013 8.2489,6.9903 5.6543,0.8635 9.7815,0.7898 10.0181,0.7851 0.01,-10e-5 0.087,0 0.087,0 0.2367,0.01 4.3639,0.078 10.0182,-0.7851 5.8214,-0.889 8.2023,-5.4792 8.2488,-6.9903 0.047,-1.511 0.7959,-40.0192 0.2679,-42.6085 -0.528,-2.5893 -4.3166,-7.1737 -8.3235,-8.2239 -4.007,-1.0502 -5.6588,-3.3341 -6.3861,-6.9841 l 0.1558,-0.405 0.019,-1.165 c -0.054,-0.1758 -0.068,-0.3444 -0.4984,-0.6231 l -0.01,-0.7289 c 0.4088,-0.2792 0.5466,-0.6478 0.5732,-0.8349 0.026,-0.187 0.015,-1.1325 0.012,-1.3457 -0.01,-0.1716 -0.3511,-0.5757 -0.8099,-0.7476 l 0.3265,-1.2259 -0.1769,-0.2694 -2.5981,-0.018 0.012,-1.9189 3.8254,-5.0402 -0.01,-7.6196 c -0.1338,-0.3504 -0.6638,-1.473 -2.0632,-1.5581 -1.3995,-0.085 -1.8866,0.8299 -1.9927,0.9849 v 0.8597 c -0.52,0.1431 -1.06,0.4637 -1.2274,1.0467 l -0.019,4.9282 c 0.1859,0.7528 0.562,0.8553 0.8846,1.1214 -0.3083,0.7915 -0.5447,0.8976 -1.0529,0.9345 -0.5081,0.038 -1.0002,-0.3547 -1.0902,-1.0467 0.7566,-0.3787 0.8354,-0.6306 0.978,-1.0092 l 0.019,-5.003 c -0.1685,-0.379 -0.3921,-0.7015 -0.9969,-0.947 v -0.5669 l 2.9656,-3.7755 v -0.5358 c 0.4968,-0.2186 0.787,-0.6108 0.9346,-0.9969 v -1.7755 l 0.3052,-0.2679 v -1.5701 c -1.6127,-0.3494 -2.4133,-0.4477 -4.0621,-0.037 z"
+       id="path2998-82-9-8-1-5-7-1-7-6-61-6-4-5-63-6-6-1-4-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccscccccccccccccccccccsccsccsccscccccccccccccczcccccscccccccccccc"
+       inkscape:export-xdpi="346.14999"
+       inkscape:export-ydpi="346.14999"
+       inkscape:export-filename="/home/max/yesbrewnein_logo_new3.png" />
   </g>
 </svg>

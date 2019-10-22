@@ -202,7 +202,7 @@
        fy="1449.95"
        r="104.75"
        spreadMethod="pad"
-       gradientTransform="matrix(1.0906922,0,0,1.0906922,-152.67432,387.77951)" />
+       gradientTransform="matrix(1.0906922,0,0,1.0906922,-594.67431,349.77951)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1241"
@@ -230,8 +230,8 @@
      id="namedview4448"
      showgrid="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="-58.723123"
-     inkscape:cy="-1735.252"
+     inkscape:cx="-1542.5891"
+     inkscape:cy="-1783.6775"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
@@ -906,59 +906,59 @@
      id="rect5187-4-15-8-3-2-5-5"
      width="300"
      height="400"
-     x="-1393.0938"
-     y="1826.663"
-     inkscape:export-filename="/home/max/nojabrewing/react_website/src/images/cardamboise.png"
-     inkscape:export-xdpi="115.2"
-     inkscape:export-ydpi="115.2" />
-  <g
-     id="g4476"
-     inkscape:export-filename="/home/max/nojabrewing/react_website/src/images/cardamboise.png"
-     inkscape:export-xdpi="115.2"
-     inkscape:export-ydpi="115.2">
-    <circle
-       inkscape:export-ydpi="120.00004"
-       inkscape:export-xdpi="120.00004"
-       inkscape:export-filename="/home/max/Pictures/cardamboise_brewgr.png"
-       r="114.25"
-       cy="1969.2285"
-       cx="-1243.0938"
-       id="path1494-70-3-4"
-       style="fill:url(#radialGradient1215-36-0-6);fill-opacity:1;stroke:none;stroke-width:0.61834508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       inkscape:export-ydpi="120.00004"
-       inkscape:export-xdpi="120.00004"
-       inkscape:export-filename="/home/max/Pictures/cardamboise_brewgr.png"
-       id="text5326-6-2-9-9-9-8-7"
-       y="2123.5071"
-       x="-1242.9811"
-       style="font-style:normal;font-weight:normal;font-size:8.45486355px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:#bdbe77;stroke-width:0.70457202px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan1143-3-6-4"
-         dy="0 0 0 0 0 0"
-         dx="0 0 0 0 0 0"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:25.73982239px;line-height:120.00000477%;font-family:Quicksand;-inkscape-font-specification:'Quicksand Light';text-align:center;text-anchor:middle;fill:#bdbe77;fill-opacity:1;stroke:#bdbe77;stroke-width:0.70457202px;stroke-opacity:1"
-         y="2123.5071"
-         x="-1242.9811"
-         sodipodi:role="line"><tspan
-   id="tspan1146-6-6-4"
-   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:25.73982239px;line-height:139.99999762%;font-family:Quicksand;-inkscape-font-specification:'Quicksand Light';text-align:center;text-anchor:middle;fill:#bdbe77;fill-opacity:1;stroke:#bdbe77;stroke-width:0.70457202px;stroke-opacity:1"
+     x="-1835.0938"
+     y="1788.663"
+     inkscape:export-filename="/home/max/Pictures/cardamboise_front_back.png"
+     inkscape:export-xdpi="269.28"
+     inkscape:export-ydpi="269.28" />
+  <circle
+     style="fill:url(#radialGradient1215-36-0-6);fill-opacity:1;stroke:none;stroke-width:0.61834508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path1494-70-3-4"
+     cx="-1685.0938"
+     cy="1931.2285"
+     r="114.25"
+     inkscape:export-filename="/home/max/Pictures/cardamboise_front_back.png"
+     inkscape:export-xdpi="269.28"
+     inkscape:export-ydpi="269.28" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:8.45486355px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:#bdbe77;stroke-width:0.70457202px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="-1684.9811"
+     y="2085.5071"
+     id="text5326-6-2-9-9-9-8-7"
+     inkscape:export-filename="/home/max/Pictures/cardamboise_front_back.png"
+     inkscape:export-xdpi="269.28"
+     inkscape:export-ydpi="269.28"><tspan
+       sodipodi:role="line"
+       x="-1684.9811"
+       y="2085.5071"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:25.73982239px;line-height:120.00000477%;font-family:Quicksand;-inkscape-font-specification:'Quicksand Light';text-align:center;text-anchor:middle;fill:#bdbe77;fill-opacity:1;stroke:#bdbe77;stroke-width:0.70457202px;stroke-opacity:1"
+       dx="0 0 0 0 0 0"
+       dy="0 0 0 0 0 0"
+       id="tspan1143-3-6-4"><tspan
+   dx="0"
    dy="0"
-   dx="0">CARDA</tspan>MBOISE</tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:25.73982239px;line-height:139.99999762%;font-family:Quicksand;-inkscape-font-specification:'Quicksand Light';text-align:center;text-anchor:middle;fill:#bdbe77;fill-opacity:1;stroke:#bdbe77;stroke-width:0.70457202px;stroke-opacity:1"
+   id="tspan1146-6-6-4">CARDA</tspan>MBOISE</tspan></text>
+  <g
+     id="g2685"
+     inkscape:export-filename="/home/max/Pictures/cardamboise_front_back.png"
+     inkscape:export-xdpi="269.28"
+     inkscape:export-ydpi="269.28">
     <circle
        inkscape:export-ydpi="120"
        inkscape:export-xdpi="120"
        inkscape:export-filename="/home/max/Pictures/cardamboise_brewgr.png"
        r="29"
-       cy="2177.5701"
-       cx="-1242.7549"
+       cy="2139.5701"
+       cx="-1684.7549"
        id="path3398-6-6-2-9-7-3-0-7-0-7-7-0-6-7-6-0-9-0-36-1-3"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#bdbe77;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.22212428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <g
        inkscape:export-ydpi="120"
        inkscape:export-xdpi="120"
        inkscape:export-filename="/home/max/Pictures/cardamboise_brewgr.png"
-       transform="matrix(0.18510357,0,0,0.18510357,-777.74702,1940.4362)"
+       transform="matrix(0.18510357,0,0,0.18510357,-1219.747,1902.4362)"
        id="g1798-8-0"
        style="fill:#b4446c;fill-opacity:0.94117647">
       <path
@@ -987,14 +987,14 @@
        inkscape:export-xdpi="120"
        inkscape:export-filename="/home/max/Pictures/cardamboise_brewgr.png"
        id="text5984-7-5-8"
-       y="2191.9678"
-       x="-1255.3647"
+       y="2153.9678"
+       x="-1697.3647"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64069366px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#b4446c;fill-opacity:0.94117647;stroke:#b4446c;stroke-width:0.24594821;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
        xml:space="preserve"><tspan
          dx="0 0 0 -1.0398161"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.62892437px;font-family:Quicksand;-inkscape-font-specification:Quicksand;word-spacing:0px;fill:#b4446c;fill-opacity:0.94117647;stroke:#b4446c;stroke-width:0.24594821;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
-         y="2191.9678"
-         x="-1255.3647"
+         y="2153.9678"
+         x="-1697.3647"
          id="tspan5982-0-9-6-4"
          sodipodi:role="line">BREWING</tspan></text>
   </g>
@@ -1099,4 +1099,195 @@
      inkscape:export-filename="/home/max/nojabrewing/react_website/src/images/cardamboise_preview.png"
      inkscape:export-xdpi="167.34"
      inkscape:export-ydpi="167.34" />
+  <rect
+     style="fill:#bdbe77;fill-opacity:1"
+     id="rect5187-4-1-7-9-9-9"
+     width="250"
+     height="400"
+     x="-1527.0938"
+     y="1788.663"
+     inkscape:export-filename="/home/max/Pictures/cardamboise_front_back.png"
+     inkscape:export-xdpi="269.28"
+     inkscape:export-ydpi="269.28" />
+  <g
+     id="g2801"
+     transform="translate(-22.146417,-9.1872515)"
+     inkscape:export-filename="/home/max/Pictures/cardamboise_front_back.png"
+     inkscape:export-xdpi="269.28"
+     inkscape:export-ydpi="269.28">
+    <path
+       inkscape:export-ydpi="252.45"
+       inkscape:export-xdpi="252.45"
+       inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
+       inkscape:connector-curvature="0"
+       id="path5581-8-9-3-3-3"
+       d="m -1458.9392,1930.2321 c 157.1427,0 157.4998,0 157.4998,0"
+       style="fill:#ca3d8f;fill-opacity:1;fill-rule:evenodd;stroke:#b3446c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="252.45"
+       inkscape:export-xdpi="252.45"
+       inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
+       inkscape:connector-curvature="0"
+       id="path5581-6-9-1-5-9-8"
+       d="m -1458.5606,2070.2319 c 157.1427,0 157.4998,0 157.4998,0"
+       style="fill:#bdbe77;fill-opacity:1;fill-rule:evenodd;stroke:#b3446c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="252.45"
+       inkscape:export-xdpi="252.45"
+       inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
+       id="text5613-73-5-4-2-8"
+       y="1979.7048"
+       x="-1381.3186"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold';text-align:center;letter-spacing:0.77457839px;word-spacing:0px;text-anchor:middle;fill:#b3446c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5829-8-9-8-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:114.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#b3446c;fill-opacity:1"
+         y="1979.7048"
+         x="-1381.3186"
+         sodipodi:role="line">RASPBERRY</tspan><tspan
+         id="tspan5835-8-5-3-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:114.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#b3446c;fill-opacity:1"
+         y="1990.6862"
+         x="-1381.3186"
+         sodipodi:role="line" /><tspan
+         id="tspan5827-2-8-0-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:114.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#b3446c;fill-opacity:1"
+         y="2008.4548"
+         x="-1381.3186"
+         sodipodi:role="line">CARDAMOM</tspan><tspan
+         id="tspan4253-8-2-1-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:114.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#b3446c;fill-opacity:1"
+         y="2037.2048"
+         x="-1381.3186"
+         sodipodi:role="line">SAISON</tspan></text>
+    <text
+       inkscape:export-ydpi="252.45"
+       inkscape:export-xdpi="252.45"
+       inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
+       id="text5613-7-2-4-3-1-7-5"
+       y="2105.7222"
+       x="-1458.5608"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0.47270605px;word-spacing:0px;text-anchor:start;fill:#b3446c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5866-2-3-8-9"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.6358881px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#b3446c;fill-opacity:1"
+         y="2105.7222"
+         x="-1458.5608"
+         sodipodi:role="line">INGREDIENTS: RASPBERRIES,</tspan><tspan
+         id="tspan4589-1-9-3"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.6358881px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#b3446c;fill-opacity:1"
+         y="2116.3582"
+         x="-1458.5608"
+         sodipodi:role="line">CARDAMOM, FLAKED OATS,</tspan><tspan
+         id="tspan4581-5-1-4"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.6358881px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#b3446c;fill-opacity:1"
+         y="2126.9939"
+         x="-1458.5608"
+         sodipodi:role="line">WHEAT MALT, BARLEY MALT:</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.6358881px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#b3446c;fill-opacity:1"
+         y="2137.6299"
+         x="-1458.5608"
+         sodipodi:role="line"
+         id="tspan5273-5-0-5-6">PILSNER, MUNICH</tspan><tspan
+         id="tspan5692-0-7-1-4-2"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.6358881px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#b3446c;fill-opacity:1"
+         y="2148.2656"
+         x="-1458.5608"
+         sodipodi:role="line">HOPS: HALLERTAU BLANC</tspan><tspan
+         id="tspan5700-3-2-9-9-5"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.6358881px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#b3446c;fill-opacity:1"
+         y="2158.9016"
+         x="-1458.5608"
+         sodipodi:role="line">YEAST: MJ M29</tspan><tspan
+         id="tspan5301-5-2-2-3"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.6358881px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#b3446c;fill-opacity:1"
+         y="2169.5376"
+         x="-1458.5608"
+         sodipodi:role="line">BOTTLED: 29-JUL-2018</tspan></text>
+    <text
+       inkscape:export-ydpi="252.45"
+       inkscape:export-xdpi="252.45"
+       inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
+       id="text5613-2-61-2-2-5-2"
+       y="2185.603"
+       x="-1379.9885"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.86242199px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.51362443px;word-spacing:0px;text-anchor:middle;fill:#b3446c;fill-opacity:1;stroke:none;stroke-width:0.98853517px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.55654907px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#b3446c;fill-opacity:1;stroke-width:0.98853517px"
+         id="tspan5621-3-06-9-5-7-0"
+         y="2185.603"
+         x="-1379.7317"
+         sodipodi:role="line">NOJABREWING.GITHUB.IO</tspan></text>
+    <text
+       inkscape:export-ydpi="252.45"
+       inkscape:export-xdpi="252.45"
+       inkscape:export-filename="C:\Users\Max\Pictures\abyssus_rubeus_cardamomum_front_back.png"
+       id="text5613-2-6-3-9-0-4-0"
+       y="2089.4138"
+       x="-1379.5848"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.56309068px;word-spacing:0px;text-anchor:middle;fill:#b3446c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         dy="0 0 0 0 0 0 0 -0.98047733 0.98047733"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.66953945px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#b3446c;fill-opacity:1"
+         id="tspan5621-3-0-2-8-7-9-0"
+         y="2089.4138"
+         x="-1379.3033"
+         sodipodi:role="line">25 IBU | ALC. 4.0% VOL.</tspan></text>
+    <g
+       transform="translate(17.458092,127.88033)"
+       id="g2742">
+      <circle
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#b3446c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.42127019;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="path3398-6-6-2-9-7-3-0-7-0-7-7-0-6-7-6-0-9-0-36-1-3-4"
+         cx="-1397.4059"
+         cy="1734.7906"
+         r="55"
+         inkscape:export-filename="/home/max/Pictures/cardamboise_brewgr.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120" />
+      <g
+         style="fill:#bdbe77;fill-opacity:1"
+         id="g1798-8-0-41"
+         transform="matrix(0.35105849,0,0,0.35105849,-515.49445,1285.054)"
+         inkscape:export-filename="/home/max/Pictures/cardamboise_brewgr.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120">
+        <path
+           d="m -2523.8082,1281.337 c 0.115,0.2301 0.3452,0.3452 0.4601,0.4602 0.5752,0.6902 1.2655,1.0353 2.1858,1.0353 1.6105,0 2.8759,-1.2654 2.8759,-2.7609 v -74.1988 c 0,-1.4955 -1.2654,-2.7609 -2.8759,-2.7609 -1.4955,0 -2.7609,1.2654 -2.7609,2.7609 v 65.571 l -48.7758,-67.6416 c -0.8051,-1.2654 -2.6458,-1.4956 -3.9111,-0.6903 -1.0353,0.8053 -1.3805,1.9556 -1.0353,3.106 v 73.8537 c 0,1.4955 1.2653,2.7609 2.7608,2.7609 1.4956,0 2.7609,-1.2654 2.7609,-2.7609 v -65.9162 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:103.17834473px;line-height:87.00000048%;font-family:Quicksand;-inkscape-font-specification:Quicksand;letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:2.27844644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path5853-5-8-7-9"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m -2523.9449,1243.4802 c 0.1151,22.5472 17.1406,40.8381 38.8825,40.8381 21.5121,0 38.4225,-18.2909 38.5375,-40.8381 -0.115,-22.5472 -17.0254,-40.838 -38.5375,-40.838 -21.7419,0 -38.7674,18.2908 -38.8825,40.838 z m 5.6369,0 c 0,-19.9014 14.9548,-35.0863 33.2456,-35.0863 17.7159,0 32.6706,15.1849 32.7857,35.0863 -0.1151,19.6713 -15.0698,35.2012 -32.7857,35.2012 -18.2908,0 -33.2456,-15.5299 -33.2456,-35.2012 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:103.17834473px;line-height:87.00000048%;font-family:Quicksand;-inkscape-font-specification:Quicksand;letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:2.27844644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path5855-6-4-8-6"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m -2571.5484,1303.3106 c 3.451,10.9285 13.9194,18.8661 25.9983,18.8661 15.0698,0 27.2637,-12.079 27.2637,-27.2639 v -50.5011 c 0,-1.4955 -1.2653,-2.7609 -2.7608,-2.7609 -1.4955,0 -2.7609,1.2654 -2.7609,2.7609 v 50.5011 c 0,11.9639 -9.7782,21.627 -21.742,21.627 -9.6631,0.1151 -17.8308,-6.2119 -20.7066,-15.0698 -0.3452,-1.3805 -1.9558,-2.1857 -3.4512,-1.7255 -1.4955,0.4601 -2.3006,2.0706 -1.8405,3.5661 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:103.17834473px;line-height:87.00000048%;font-family:Quicksand;-inkscape-font-specification:Quicksand;letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:2.27844644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path5857-9-5-6-8"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m -2459.7043,1320.3361 c 0.4601,1.1503 1.6104,1.8406 2.6458,1.8406 0.3451,0 0.5752,-0.1151 1.0354,-0.1151 1.3804,-0.5752 2.0706,-2.3008 1.4953,-3.6812 l -27.9539,-74.659 c -0.3452,-1.0353 -1.4955,-1.7255 -2.7609,-1.7255 -1.1504,0 -2.3008,0.6902 -2.7609,1.7255 l -27.954,74.659 c -0.5751,1.3804 0.2301,3.106 1.6106,3.6812 0.345,0 0.8052,0.1151 1.0353,0.1151 1.1503,0 2.1856,-0.6903 2.6459,-1.8406 l 7.1321,-18.9812 h 36.6969 z m -25.4233,-67.8719 16.2203,43.2539 h -32.5555 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:103.17834473px;line-height:87.00000048%;font-family:Quicksand;-inkscape-font-specification:Quicksand;letter-spacing:0px;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:none;stroke-width:2.27844644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path5859-12-6-8-0"
+           inkscape:connector-curvature="0" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.69786739px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#bdbe77;fill-opacity:1;stroke:#bdbe77;stroke-width:0.46645349;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-1421.3212"
+         y="1762.0967"
+         id="text5984-7-5-8-9"
+         inkscape:export-filename="/home/max/Pictures/cardamboise_brewgr.png"
+         inkscape:export-xdpi="120"
+         inkscape:export-ydpi="120"><tspan
+           sodipodi:role="line"
+           id="tspan5982-0-9-6-4-3"
+           x="-1421.3212"
+           y="1762.0967"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.67554569px;font-family:Quicksand;-inkscape-font-specification:Quicksand;word-spacing:0px;fill:#bdbe77;fill-opacity:1;stroke:#bdbe77;stroke-width:0.46645349;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           dx="0 0 0 -1.9720651">BREWING</tspan></text>
+    </g>
+  </g>
 </svg>

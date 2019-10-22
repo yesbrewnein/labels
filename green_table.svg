@@ -15,7 +15,7 @@
    version="1.1"
    id="svg1011"
    inkscape:version="0.92.4 (unknown)"
-   sodipodi:docname="table_blanc.svg">
+   sodipodi:docname="green_table.svg">
   <defs
      id="defs1005">
     <filter
@@ -65,9 +65,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="-3221.3926"
-     inkscape:cy="-1316.879"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-6313.4727"
+     inkscape:cy="-3375.045"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -85,7 +85,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -21179,5 +21179,129 @@
          y="424.80042"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:85.60000062%;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.79831725;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan14131-9">TABLE</tspan></text>
+    <rect
+       style="fill:#24a124;fill-opacity:1;stroke-width:1.26491106"
+       id="rect5187-4-1-7-9-9-5-7-6-2-3-9-4-8-7-7-7-0-7-8"
+       width="400"
+       height="400"
+       x="-1806.0283"
+       y="920.3092"
+       inkscape:export-filename="/home/max/Pictures/green_table_gf.png"
+       inkscape:export-xdpi="63.5"
+       inkscape:export-ydpi="63.5" />
+    <path
+       style="fill:#24a124;fill-opacity:1;stroke:#ffffff;stroke-width:2.21447897;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1807.8258,1263.8689 h 281.5034 V 919.24385 h -281.5034 z"
+       id="rect5187-4-15-8-3-2-5-5-7-6-6-6-2-7-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.79541779px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.79831725;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="-1543.0266"
+       y="965.6933"
+       id="text1822-1-4-0-7-9-5-5"><tspan
+         sodipodi:role="line"
+         x="-1543.0266"
+         y="965.6933"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:85.60000062%;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.79831725;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan14131-2">GREEN</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1526.0812,1264.3012 -39.8034,56.8924"
+       id="path6299-4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.22804189;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path3398-6-6-2-9-7-3-0-7-0-7-7-0-6-7-6-0-9-0-36-1-0-3-3-3-5-0"
+       cx="-1668.7689"
+       cy="1195.4556"
+       r="43.15443"
+       inkscape:export-filename="/home/max/Pictures/cardamboise_brewgr.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       id="g1798-8-9-1-2-9-3-7"
+       transform="matrix(0.27544961,0,0,0.27544961,-976.79824,842.58103)"
+       inkscape:export-filename="/home/max/Pictures/cardamboise_brewgr.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120">
+      <path
+         d="m -2523.8082,1281.337 c 0.115,0.2301 0.3452,0.3452 0.4601,0.4602 0.5752,0.6902 1.2655,1.0353 2.1858,1.0353 1.6105,0 2.8759,-1.2654 2.8759,-2.7609 v -74.1988 c 0,-1.4955 -1.2654,-2.7609 -2.8759,-2.7609 -1.4955,0 -2.7609,1.2654 -2.7609,2.7609 v 65.571 l -48.7758,-67.6416 c -0.8051,-1.2654 -2.6458,-1.4956 -3.9111,-0.6903 -1.0353,0.8053 -1.3805,1.9556 -1.0353,3.106 v 73.8537 c 0,1.4955 1.2653,2.7609 2.7608,2.7609 1.4956,0 2.7609,-1.2654 2.7609,-2.7609 v -65.9162 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:103.17834473px;line-height:87.00000048%;font-family:Quicksand;-inkscape-font-specification:Quicksand;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.27844644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path5853-5-8-2-9-0-4-8-1"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -2523.9449,1243.4802 c 0.1151,22.5472 17.1406,40.8381 38.8825,40.8381 21.5121,0 38.4225,-18.2909 38.5375,-40.8381 -0.115,-22.5472 -17.0254,-40.838 -38.5375,-40.838 -21.7419,0 -38.7674,18.2908 -38.8825,40.838 z m 5.6369,0 c 0,-19.9014 14.9548,-35.0863 33.2456,-35.0863 17.7159,0 32.6706,15.1849 32.7857,35.0863 -0.1151,19.6713 -15.0698,35.2012 -32.7857,35.2012 -18.2908,0 -33.2456,-15.5299 -33.2456,-35.2012 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:103.17834473px;line-height:87.00000048%;font-family:Quicksand;-inkscape-font-specification:Quicksand;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.27844644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path5855-6-4-3-4-6-9-6-5"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -2571.5484,1303.3106 c 3.451,10.9285 13.9194,18.8661 25.9983,18.8661 15.0698,0 27.2637,-12.079 27.2637,-27.2639 v -50.5011 c 0,-1.4955 -1.2653,-2.7609 -2.7608,-2.7609 -1.4955,0 -2.7609,1.2654 -2.7609,2.7609 v 50.5011 c 0,11.9639 -9.7782,21.627 -21.742,21.627 -9.6631,0.1151 -17.8308,-6.2119 -20.7066,-15.0698 -0.3452,-1.3805 -1.9558,-2.1857 -3.4512,-1.7255 -1.4955,0.4601 -2.3006,2.0706 -1.8405,3.5661 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:103.17834473px;line-height:87.00000048%;font-family:Quicksand;-inkscape-font-specification:Quicksand;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.27844644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path5857-9-5-1-7-1-5-3-6"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -2459.7043,1320.3361 c 0.4601,1.1503 1.6104,1.8406 2.6458,1.8406 0.3451,0 0.5752,-0.1151 1.0354,-0.1151 1.3804,-0.5752 2.0706,-2.3008 1.4953,-3.6812 l -27.9539,-74.659 c -0.3452,-1.0353 -1.4955,-1.7255 -2.7609,-1.7255 -1.1504,0 -2.3008,0.6902 -2.7609,1.7255 l -27.954,74.659 c -0.5751,1.3804 0.2301,3.106 1.6106,3.6812 0.345,0 0.8052,0.1151 1.0353,0.1151 1.1503,0 2.1856,-0.6903 2.6459,-1.8406 l 7.1321,-18.9812 h 36.6969 z m -25.4233,-67.8719 16.2203,43.2539 h -32.5555 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:103.17834473px;line-height:87.00000048%;font-family:Quicksand;-inkscape-font-specification:Quicksand;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.27844644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path5859-12-6-8-8-5-5-4-3"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.39382458px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.36599159;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="-1687.5334"
+       y="1216.8805"
+       id="text5984-7-5-7-4-5-7-7-2"
+       inkscape:export-filename="/home/max/Pictures/cardamboise_brewgr.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120"><tspan
+         sodipodi:role="line"
+         id="tspan5982-0-9-6-4-5-4-3-1-1"
+         x="-1687.5334"
+         y="1216.8805"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.37631035px;font-family:Quicksand;-inkscape-font-specification:Quicksand;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.36599159;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         dx="0 0 0 -1.5473335">BREWING</tspan></text>
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.22804189;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path3398-6-6-2-9-7-3-0-7-0-7-7-0-6-7-6-0-9-0-36-1-0-3-3-3-9-3-0"
+       cx="-1694.3843"
+       cy="1067.6598"
+       r="68.125107"
+       inkscape:export-filename="/home/max/Pictures/cardamboise_brewgr.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.22804189;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1756.3446,1095.7543 46.1124,110.9788"
+       id="path6256-9-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.22804189;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1626.3356,1070.5793 0.7018,126.322"
+       id="path6256-6-8-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37.79527664;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect10226-1-5"
+       width="300"
+       height="400"
+       x="-1778.0923"
+       y="920.30908" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.79541779px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.79831725;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="-1545.282"
+       y="996.93958"
+       id="text1822-1-4-0-7-9-5-4-6"><tspan
+         sodipodi:role="line"
+         x="-1545.282"
+         y="996.93958"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:85.60000062%;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.79831725;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan14131-9-4">TABLE</tspan></text>
   </g>
 </svg>

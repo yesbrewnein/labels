@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
    height="297mm"
    viewBox="0 0 210 297"
    version="1.1"
    id="svg6441"
    sodipodi:docname="dark_thiol_matter.svg"
-   inkscape:version="1.0.2 (1.0.2+r75+1)">
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs6435">
     <inkscape:path-effect
@@ -1076,7 +1076,7 @@
       <path
          id="mask-powermask-path-effect2799_box"
          style="fill:#ffffff;fill-opacity:1"
-         d="m 101.6476,-234.28691 h 113.42096 v 113.42096 H 101.6476 Z" />
+         d="m 102.3581,-233.57641 h 111.99996 v 111.99996 H 102.3581 Z" />
       <g
          id="g2797"
          style="">
@@ -1681,17 +1681,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748738"
-     inkscape:cx="-3472.4792"
-     inkscape:cy="495.37435"
+     inkscape:cx="-3470.8841"
+     inkscape:cy="494.97473"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="982"
+     inkscape:window-width="2560"
+     inkscape:window-height="1346"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata6438">
     <rdf:RDF>
@@ -8019,7 +8020,7 @@
     <path
        inkscape:export-ydpi="127"
        inkscape:export-xdpi="127"
-       inkscape:export-filename="/home/nojam/Pictures/dark_thiol_matter.png"
+       inkscape:export-filename="/home/max/Pictures/dark_thiol_matter.png"
        y="-56.573292"
        x="-1122.2223"
        height="400"
@@ -8032,7 +8033,7 @@
     <g
        id="g4783"
        transform="translate(49.999975)"
-       inkscape:export-filename="/home/nojam/Pictures/dark_thiol_matter.png"
+       inkscape:export-filename="/home/max/Pictures/dark_thiol_matter.png"
        inkscape:export-xdpi="127"
        inkscape:export-ydpi="127">
       <g

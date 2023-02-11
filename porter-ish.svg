@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,7 +12,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1243"
-   inkscape:version="0.92.4 (unknown)"
+   inkscape:version="1.0 (1.0+r73+1)"
    sodipodi:docname="porter-ish.svg">
   <defs
      id="defs1237" />
@@ -25,18 +23,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="129.52384"
-     inkscape:cy="-433.95858"
+     inkscape:zoom="0.35"
+     inkscape:cx="-294.90323"
+     inkscape:cy="1603.3252"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1346"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
-     showguides="false" />
+     showguides="false"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata1240">
     <rdf:RDF>
@@ -60,26 +59,29 @@
        height="400.00003"
        x="-319.68985"
        y="187.20386"
-       inkscape:export-filename="/home/max/yesbrewnein/react_website/src/images/abyssus_rubeus_cardamomum.png"
-       inkscape:export-xdpi="115.19997"
-       inkscape:export-ydpi="115.19997" />
+       inkscape:export-filename="/home/max/nojabrewing/react_website/src/images/porter_ish.png"
+       inkscape:export-xdpi="30.479998"
+       inkscape:export-ydpi="30.479998" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:24.36847305px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e63c3c;fill-opacity:1;stroke:none;stroke-width:2.03070641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:24.3685px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e63c3c;fill-opacity:1;stroke:none;stroke-width:2.03071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-173.1179"
        y="360.37689"
        id="text5326-6-2-9-9"
-       inkscape:export-filename="/home/max/yesbrewnein/react_website/src/images/abyssus_rubeus_cardamomum.png"
-       inkscape:export-xdpi="115.19997"
-       inkscape:export-ydpi="115.19997"><tspan
+       inkscape:export-filename="/home/max/nojabrewing/react_website/src/images/porter_ish.png"
+       inkscape:export-xdpi="30.479998"
+       inkscape:export-ydpi="30.479998"><tspan
          sodipodi:role="line"
          x="-173.1179"
          y="360.37689"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.18691254px;line-height:66.90000296%;font-family:'Noto Sans Mono CJK SC';-inkscape-font-specification:'Noto Sans Mono CJK SC Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#e63c3c;fill-opacity:1;stroke:none;stroke-width:2.03070641px;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.1869px;line-height:66.9%;font-family:'Noto Sans Mono CJK SC';-inkscape-font-specification:'Noto Sans Mono CJK SC Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#e63c3c;fill-opacity:1;stroke:none;stroke-width:2.03071px;stroke-opacity:1"
          id="tspan1923">PORTER</tspan></text>
     <g
        id="g3042"
-       transform="translate(-106.89518,-184.9287)">
+       transform="translate(-106.89518,-184.9287)"
+       inkscape:export-filename="/home/max/nojabrewing/react_website/src/images/porter_ish.png"
+       inkscape:export-xdpi="30.479998"
+       inkscape:export-ydpi="30.479998">
       <circle
          inkscape:export-ydpi="120"
          inkscape:export-xdpi="120"
@@ -124,10 +126,10 @@
          id="text5984-7-5-3-2"
          y="704.26447"
          x="-78.470642"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.01196575px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke:#2d1911;stroke-width:0.30573907;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.01197px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke:#2d1911;stroke-width:0.305739;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          xml:space="preserve"><tspan
            dx="0 0 0 -1.2925988"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.99733496px;font-family:Quicksand;-inkscape-font-specification:Quicksand;word-spacing:0px;fill:#2d1911;fill-opacity:1;stroke:#2d1911;stroke-width:0.30573907;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.99733px;font-family:Quicksand;-inkscape-font-specification:Quicksand;word-spacing:0px;fill:#2d1911;fill-opacity:1;stroke:#2d1911;stroke-width:0.305739;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            y="704.26447"
            x="-78.470642"
            id="tspan5982-0-9-6-9-9"
@@ -161,7 +163,7 @@
        inkscape:export-ydpi="252.45" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold';text-align:center;letter-spacing:0.77457833px;word-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.99999982px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold';text-align:center;letter-spacing:0.774578px;word-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="124.85066"
        y="369.92172"
        id="text5613-73-5-4-2"
@@ -171,26 +173,25 @@
          sodipodi:role="line"
          x="124.85066"
          y="369.92172"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.99999809px;line-height:114.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke-width:0.99999982px"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:115%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke-width:1px"
          id="tspan5827-2-8-0">SMALL</tspan><tspan
          sodipodi:role="line"
          x="124.85066"
          y="398.67172"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.99999809px;line-height:114.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke-width:0.99999982px"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:115%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke-width:1px"
          id="tspan907">RASPBERRY</tspan><tspan
          sodipodi:role="line"
          x="124.85066"
          y="409.65308"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.99999809px;line-height:114.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke-width:0.99999982px"
          id="tspan952" /><tspan
          sodipodi:role="line"
          x="124.85066"
          y="427.42172"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.99999809px;line-height:114.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke-width:0.99999982px"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:115%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke-width:1px"
          id="tspan4253-8-2-1">PORTER</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.84561729px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0.42723238px;word-spacing:0px;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.90380144px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.8456px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0.427232px;word-spacing:0px;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.903801px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="47.608521"
        y="494.12585"
        id="text5613-7-2-4-3-1-7"
@@ -200,46 +201,46 @@
          sodipodi:role="line"
          x="47.608521"
          y="494.12585"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.61273003px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.90380144px"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.61273px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.903801px"
          id="tspan4589-1-9">INGREDIENTS: WATER, FLAKED</tspan><tspan
          sodipodi:role="line"
          x="47.608521"
          y="503.73859"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.61273003px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.90380144px"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.61273px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.903801px"
          id="tspan4581-5-1">OATS, RYE MALT, BARLEY MALT:</tspan><tspan
          id="tspan5273-5-0-5"
          sodipodi:role="line"
          x="47.608521"
          y="513.35132"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.61273003px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.90380144px">AMBER, MARIS OTTER,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.61273px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.903801px">AMBER, MARIS OTTER,</tspan><tspan
          sodipodi:role="line"
          x="47.608521"
          y="522.96405"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.61273003px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.90380144px"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.61273px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.903801px"
          id="tspan960">BROWN, BLACK, CHOCOLATE,</tspan><tspan
          sodipodi:role="line"
          x="47.608521"
          y="532.57678"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.61273003px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.90380144px"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.61273px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.903801px"
          id="tspan962">CARAAROMA, CARAMUNICH II</tspan><tspan
          sodipodi:role="line"
          x="47.608521"
          y="542.18951"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.61273003px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.90380144px"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.61273px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.903801px"
          id="tspan5692-0-7-1-4">HOPS: BRAMLING CROSS</tspan><tspan
          sodipodi:role="line"
          x="47.608521"
          y="551.80225"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.61273003px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.90380144px"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.61273px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.903801px"
          id="tspan5700-3-2-9-9">YEAST: SAFALE S04</tspan><tspan
          sodipodi:role="line"
          x="47.608521"
          y="561.41498"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.61273003px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.90380144px"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.61273px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.903801px"
          id="tspan5301-5-2-2">BOTTLED: 14-JAN-2021</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.93121099px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0.51362443px;word-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.49426764px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.93121px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0.513624px;word-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.494268px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="126.18068"
        y="577.6947"
        id="text5613-2-61-6-9-7-0-4-5-2"
@@ -250,10 +251,10 @@
          x="126.43749"
          y="577.6947"
          id="tspan5621-3-06-9-3-5-7-9-0-5"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.55655003px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2d1911;fill-opacity:1;stroke-width:0.49426764px">NOJABREWING.GITHUB.IO</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.5566px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2d1911;fill-opacity:1;stroke-width:0.494268px">NOJABREWING.GITHUB.IO</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.56309062px;word-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.99999982px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.563091px;word-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="126.58438"
        y="478.62061"
        id="text5613-2-6-3-9-0-4"
@@ -264,7 +265,7 @@
          x="126.86593"
          y="478.62061"
          id="tspan5621-3-0-2-8-7-9"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.6695385px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2d1911;fill-opacity:1;stroke-width:0.99999982px"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.6695px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2d1911;fill-opacity:1;stroke-width:1px"
          dy="0 0 0 0 0 0 0 -0.98047721 0.98047721">25 IBU | ALC. 2.5% VOL.</tspan></text>
     <g
        id="g2985"
@@ -313,10 +314,10 @@
          id="text5984-7-5-3"
          y="411.65503"
          x="347.58698"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.69786739px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#e63c3c;fill-opacity:1;stroke:#e63c3c;stroke-width:0.46645352;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6979px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#e63c3c;fill-opacity:1;stroke:#e63c3c;stroke-width:0.466454;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          xml:space="preserve"><tspan
            dx="0 0 0 -1.9720649"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.67554569px;font-family:Quicksand;-inkscape-font-specification:Quicksand;word-spacing:0px;fill:#e63c3c;fill-opacity:1;stroke:#e63c3c;stroke-width:0.46645352;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6755px;font-family:Quicksand;-inkscape-font-specification:Quicksand;word-spacing:0px;fill:#e63c3c;fill-opacity:1;stroke:#e63c3c;stroke-width:0.466454;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            y="411.65503"
            x="347.58698"
            id="tspan5982-0-9-6-9"
@@ -324,15 +325,18 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.43309021px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#e63c3c;fill-opacity:1;stroke:none;stroke-width:0.66076142px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.4331px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#e63c3c;fill-opacity:1;stroke:none;stroke-width:0.660761px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-184.33447"
        y="381.05307"
-       id="text888"><tspan
+       id="text888"
+       inkscape:export-filename="/home/max/nojabrewing/react_website/src/images/porter_ish.png"
+       inkscape:export-xdpi="30.479998"
+       inkscape:export-ydpi="30.479998"><tspan
          sodipodi:role="line"
          id="tspan886"
          x="-184.33447"
          y="381.05307"
-         style="fill:#e63c3c;fill-opacity:1;stroke-width:0.66076142px">ish</tspan></text>
+         style="fill:#e63c3c;fill-opacity:1;stroke-width:0.660761px">ish</tspan></text>
     <rect
        style="fill:#2d1911;fill-opacity:1;stroke-width:0.26458332"
        id="rect5187-4-15-8-3-9"
@@ -345,7 +349,7 @@
        inkscape:export-ydpi="115.19997" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.44749165px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e84d4d;fill-opacity:1;stroke:none;stroke-width:0.53729105px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:6.44749px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e84d4d;fill-opacity:1;stroke:none;stroke-width:0.537291px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-157.50255"
        y="80.78669"
        id="text5326-6-2-9-9-3"
@@ -355,7 +359,7 @@
          sodipodi:role="line"
          x="-157.50255"
          y="80.78669"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.62862015px;line-height:66.90000296%;font-family:'Noto Sans Mono CJK SC';-inkscape-font-specification:'Noto Sans Mono CJK SC Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#e84d4d;fill-opacity:1;stroke:none;stroke-width:0.53729105px;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.6286px;line-height:66.9%;font-family:'Noto Sans Mono CJK SC';-inkscape-font-specification:'Noto Sans Mono CJK SC Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#e84d4d;fill-opacity:1;stroke:none;stroke-width:0.537291px;stroke-opacity:1"
          id="tspan1923-0">PORTER</tspan></text>
     <g
        id="g946-2"
@@ -387,7 +391,7 @@
          id="g6519-3-81-9-2-9">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#e84d4d;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#e84d4d;fill-opacity:1;stroke:none;stroke-width:0.90396px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="1161.3663"
            y="-1076.7251"
            id="text3336-9-9-1-2-9-5-7-6-2-1-9-0-5"
@@ -398,10 +402,10 @@
              id="tspan3338-1-1-6-7-6-6-9-1-0-1-8-2-2"
              x="1161.3663"
              y="-1076.7251"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#e84d4d;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">YES</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.0125px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#e84d4d;fill-opacity:1;stroke:none;stroke-width:0.90396px;stroke-opacity:1">YES</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#e84d4d;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#e84d4d;fill-opacity:1;stroke:none;stroke-width:0.90396px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="1158.8492"
            y="-1052.8525"
            id="text3336-3-2-3-3-2-8-0-2-2-6-1-2-3-0"
@@ -412,10 +416,10 @@
              id="tspan3338-6-7-4-9-2-57-9-3-9-1-8-4-7-8"
              x="1158.8492"
              y="-1052.8525"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#e84d4d;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">BREW</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.0164px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#e84d4d;fill-opacity:1;stroke:none;stroke-width:0.90396px;stroke-opacity:1">BREW</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#e84d4d;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#e84d4d;fill-opacity:1;stroke:none;stroke-width:0.90396px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="1158.8492"
            y="-1028.592"
            id="text3336-7-0-5-3-1-5-6-92-3-5-74-5-5-3"
@@ -426,7 +430,7 @@
              id="tspan3338-5-9-8-3-0-9-2-2-1-5-2-2-9-5"
              x="1158.8492"
              y="-1028.592"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#e84d4d;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1">NEIN</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.0164px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#e84d4d;fill-opacity:1;stroke:none;stroke-width:0.90396px;stroke-opacity:1">NEIN</tspan></text>
       </g>
     </g>
     <rect
@@ -457,7 +461,7 @@
        inkscape:export-ydpi="252.45" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold';text-align:center;letter-spacing:0.20494053px;word-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:3.175px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold';text-align:center;letter-spacing:0.204941px;word-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-78.514366"
        y="83.312424"
        id="text5613-73-5-4-2-6"
@@ -467,21 +471,21 @@
          sodipodi:role="line"
          x="-78.514366"
          y="83.312424"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.61458349px;line-height:114.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke-width:0.26458332px"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.61458px;line-height:115%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke-width:0.264583px"
          id="tspan5827-2-8-0-3">LONDON</tspan><tspan
          sodipodi:role="line"
          x="-78.514366"
          y="90.919197"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.61458349px;line-height:114.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke-width:0.26458332px"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.61458px;line-height:115%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke-width:0.264583px"
          id="tspan952-0">SESSION</tspan><tspan
          sodipodi:role="line"
          x="-78.514366"
          y="98.52597"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.61458349px;line-height:114.99999762%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke-width:0.26458332px"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.61458px;line-height:115%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke-width:0.264583px"
          id="tspan4253-8-2-1-2">PORTER</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.86956978px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0.11303857px;word-spacing:0px;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.2391308px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.86957px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;letter-spacing:0.113039px;word-spacing:0px;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.239131px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-98.951347"
        y="116.17477"
        id="text5613-7-2-4-3-1-7-0"
@@ -491,46 +495,46 @@
          sodipodi:role="line"
          x="-98.951347"
          y="116.17477"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.54336858px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.2391308px"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.54337px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.239131px"
          id="tspan4589-1-9-7">INGREDIENTS: WATER, FLAKED</tspan><tspan
          sodipodi:role="line"
          x="-98.951347"
          y="118.71814"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.54336858px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.2391308px"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.54337px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.239131px"
          id="tspan4581-5-1-4">OATS, RYE MALT, BARLEY MALT:</tspan><tspan
          id="tspan5273-5-0-5-7"
          sodipodi:role="line"
          x="-98.951347"
          y="121.26151"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.54336858px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.2391308px">MUNICH II, MARIS OTTER,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.54337px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.239131px">MUNICH II, MARIS OTTER,</tspan><tspan
          sodipodi:role="line"
          x="-98.951347"
          y="123.80488"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.54336858px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.2391308px"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.54337px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.239131px"
          id="tspan960-3">BROWN, BLACK, CHOCOLATE,</tspan><tspan
          sodipodi:role="line"
          x="-98.951347"
          y="126.34825"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.54336858px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.2391308px"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.54337px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.239131px"
          id="tspan962-0">CARAAROMA, CARAMUNICH II</tspan><tspan
          sodipodi:role="line"
          x="-98.951347"
          y="128.89162"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.54336858px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.2391308px"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.54337px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.239131px"
          id="tspan5692-0-7-1-4-1">HOPS: COLUMBUS</tspan><tspan
          sodipodi:role="line"
          x="-98.951347"
          y="131.43498"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.54336858px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.2391308px"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.54337px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.239131px"
          id="tspan5700-3-2-9-9-6">YEAST: MJ M15</tspan><tspan
          sodipodi:role="line"
          x="-98.951347"
          y="133.97836"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.54336858px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.2391308px"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.54337px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke-width:0.239131px"
          id="tspan5301-5-2-2-7">BOTTLED: 14-APR-2020</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.13747257px;word-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.137473px;word-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-78.024033"
        y="138.3114"
        id="text5613-2-61-2-2-5-5"
@@ -541,10 +545,10 @@
          x="-77.955299"
          y="138.3114"
          id="tspan5621-3-06-9-5-7-7"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.09313273px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2d1911;fill-opacity:1;stroke-width:0.26458332px">YESBREWNEIN.GITHUB.IO</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.09313px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2d1911;fill-opacity:1;stroke-width:0.264583px">YESBREWNEIN.GITHUB.IO</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.1489844px;word-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;letter-spacing:0.148984px;word-spacing:0px;text-anchor:middle;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-78.055656"
        y="112.07233"
        id="text5613-2-6-3-9-0-4-8"
@@ -555,7 +559,7 @@
          x="-77.981163"
          y="112.07233"
          id="tspan5621-3-0-2-8-7-9-8"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.35214901px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2d1911;fill-opacity:1;stroke-width:0.26458332px"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.35215px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2d1911;fill-opacity:1;stroke-width:0.264583px"
          dy="0 0 0 0 0 0 0 -0.25941795 0.25941795">35 IBU | ALC. 2.0% VOL.</tspan></text>
     <circle
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2d1911;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.31750003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -589,9 +593,9 @@
          id="text3336-9-9-1-2-9-5-7-6-2-3-3-2-9-8"
          y="-1076.7251"
          x="1161.3663"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.90396px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01250076px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.0125px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.90396px;stroke-opacity:1"
            y="-1076.7251"
            x="1161.3663"
            id="tspan3338-1-1-6-7-6-6-9-1-0-7-3-4-3-0"
@@ -603,9 +607,9 @@
          id="text3336-3-2-3-3-2-8-0-2-2-6-7-5-7-5-3"
          y="-1052.8525"
          x="1158.8492"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.90396px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.0164px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.90396px;stroke-opacity:1"
            y="-1052.8525"
            x="1158.8492"
            id="tspan3338-6-7-4-9-2-57-9-3-9-1-5-3-6-7-1"
@@ -617,9 +621,9 @@
          id="text3336-7-0-5-3-1-5-6-92-3-5-7-2-6-0-0"
          y="-1028.592"
          x="1158.8492"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.90396px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.01641655px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.90395999px;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.0164px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#2d1911;fill-opacity:1;stroke:none;stroke-width:0.90396px;stroke-opacity:1"
            y="-1028.592"
            x="1158.8492"
            id="tspan3338-5-9-8-3-0-9-2-2-1-5-7-5-1-8-3"
@@ -627,7 +631,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.78333855px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#e84d4d;fill-opacity:1;stroke:none;stroke-width:0.17482644px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.7833px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#e84d4d;fill-opacity:1;stroke:none;stroke-width:0.174826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-160.47026"
        y="86.257271"
        id="text888-6"><tspan
@@ -635,7 +639,7 @@
          id="tspan886-7"
          x="-160.47026"
          y="86.257271"
-         style="fill:#e84d4d;fill-opacity:1;stroke-width:0.17482644px">ish</tspan></text>
+         style="fill:#e84d4d;fill-opacity:1;stroke-width:0.174826px">ish</tspan></text>
     <rect
        style="fill:#2d1911;fill-opacity:1;stroke-width:1.15470052"
        id="rect5187-4-15-8-3-1"
@@ -659,10 +663,10 @@
          id="text5326-6-2-9-9-2"
          y="-127.52402"
          x="379.30191"
-         style="font-style:normal;font-weight:normal;font-size:24.36847305px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e63c3c;fill-opacity:1;stroke:none;stroke-width:2.03070641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:24.3685px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e63c3c;fill-opacity:1;stroke:none;stroke-width:2.03071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan1923-7"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.18691254px;line-height:66.90000296%;font-family:'Noto Sans Mono CJK SC';-inkscape-font-specification:'Noto Sans Mono CJK SC Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#e63c3c;fill-opacity:1;stroke:none;stroke-width:2.03070641px;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.1869px;line-height:66.9%;font-family:'Noto Sans Mono CJK SC';-inkscape-font-specification:'Noto Sans Mono CJK SC Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#e63c3c;fill-opacity:1;stroke:none;stroke-width:2.03071px;stroke-opacity:1"
            y="-127.52402"
            x="379.30191"
            sodipodi:role="line">PORTER</tspan></text>
@@ -708,7 +712,7 @@
         </g>
         <text
            xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.01196575px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke:#2d1911;stroke-width:0.30573907;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.01197px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke:#2d1911;stroke-width:0.305739;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="-78.470642"
            y="704.26447"
            id="text5984-7-5-3-2-6"
@@ -719,16 +723,16 @@
              id="tspan5982-0-9-6-9-9-1"
              x="-78.470642"
              y="704.26447"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.99733496px;font-family:Quicksand;-inkscape-font-specification:Quicksand;word-spacing:0px;fill:#2d1911;fill-opacity:1;stroke:#2d1911;stroke-width:0.30573907;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.99733px;font-family:Quicksand;-inkscape-font-specification:Quicksand;word-spacing:0px;fill:#2d1911;fill-opacity:1;stroke:#2d1911;stroke-width:0.305739;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              dx="0 0 0 -1.2925988">BREWING</tspan></text>
       </g>
       <text
          id="text888-8"
          y="-106.84788"
          x="368.08536"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.43309021px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#e63c3c;fill-opacity:1;stroke:none;stroke-width:0.66076142px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.4331px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#e63c3c;fill-opacity:1;stroke:none;stroke-width:0.660761px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="fill:#e63c3c;fill-opacity:1;stroke-width:0.66076142px"
+           style="fill:#e63c3c;fill-opacity:1;stroke-width:0.660761px"
            y="-106.84788"
            x="368.08536"
            id="tspan886-79"
@@ -752,7 +756,7 @@
        id="g3159">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:24.36847305px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e63c3c;fill-opacity:1;stroke:none;stroke-width:2.03070641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:24.3685px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e63c3c;fill-opacity:1;stroke:none;stroke-width:2.03071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="379.30191"
          y="-127.52402"
          id="text3135"
@@ -762,7 +766,7 @@
            sodipodi:role="line"
            x="379.30191"
            y="-127.52402"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.18691254px;line-height:66.90000296%;font-family:'Noto Sans Mono CJK SC';-inkscape-font-specification:'Noto Sans Mono CJK SC Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#e63c3c;fill-opacity:1;stroke:none;stroke-width:2.03070641px;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.1869px;line-height:66.9%;font-family:'Noto Sans Mono CJK SC';-inkscape-font-specification:'Noto Sans Mono CJK SC Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#e63c3c;fill-opacity:1;stroke:none;stroke-width:2.03071px;stroke-opacity:1"
            id="tspan3133">PORTER</tspan></text>
       <g
          id="g3153"
@@ -811,10 +815,10 @@
            id="text3151"
            y="704.26447"
            x="-78.470642"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.01196575px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke:#2d1911;stroke-width:0.30573907;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.01197px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2d1911;fill-opacity:1;stroke:#2d1911;stroke-width:0.305739;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            xml:space="preserve"><tspan
              dx="0 0 0 -1.2925988"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.99733496px;font-family:Quicksand;-inkscape-font-specification:Quicksand;word-spacing:0px;fill:#2d1911;fill-opacity:1;stroke:#2d1911;stroke-width:0.30573907;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.99733px;font-family:Quicksand;-inkscape-font-specification:Quicksand;word-spacing:0px;fill:#2d1911;fill-opacity:1;stroke:#2d1911;stroke-width:0.305739;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              y="704.26447"
              x="-78.470642"
              id="tspan3149"
@@ -822,7 +826,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.43309021px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#e63c3c;fill-opacity:1;stroke:none;stroke-width:0.66076142px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.4331px;line-height:125%;font-family:'Great Vibes';-inkscape-font-specification:'Great Vibes Italic';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#e63c3c;fill-opacity:1;stroke:none;stroke-width:0.660761px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="368.08536"
          y="-106.84788"
          id="text3157"><tspan
@@ -830,7 +834,17 @@
            id="tspan3155"
            x="368.08536"
            y="-106.84788"
-           style="fill:#e63c3c;fill-opacity:1;stroke-width:0.66076142px">ish</tspan></text>
+           style="fill:#e63c3c;fill-opacity:1;stroke-width:0.660761px">ish</tspan></text>
     </g>
+    <rect
+       inkscape:export-ydpi="100.02293"
+       inkscape:export-xdpi="100.02293"
+       inkscape:export-filename="/home/max/nojabrewing/react_website/src/images/porter_ish_preview.png"
+       y="341.10428"
+       x="-202.94514"
+       height="91.319054"
+       width="91.319054"
+       id="rect1393"
+       style="fill:#333333;fill-opacity:0.4937923;stroke:#a7c545;stroke-width:0.1;paint-order:stroke fill markers" />
   </g>
 </svg>
